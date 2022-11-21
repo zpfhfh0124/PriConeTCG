@@ -1,0 +1,3444 @@
+fileFormatVersion: 2
+guid: dfed7b785a66a20468c5295466845781
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5429172577257886155
+    second: GachaTop_0
+  - first:
+      213: 7079573187427999277
+    second: GachaTop_1
+  - first:
+      213: -3311524025047901718
+    second: GachaTop_2
+  - first:
+      213: -5701676216206474441
+    second: GachaTop_3
+  - first:
+      213: -6570030887247552441
+    second: GachaTop_4
+  - first:
+      213: -5664664968817752948
+    second: GachaTop_5
+  - first:
+      213: 4617369813317116938
+    second: GachaTop_6
+  - first:
+      213: 5845789692928617832
+    second: GachaTop_7
+  - first:
+      213: 7225158924855494082
+    second: GachaTop_8
+  - first:
+      213: -3384315706871548136
+    second: GachaTop_9
+  - first:
+      213: 5045878725940816162
+    second: GachaTop_10
+  - first:
+      213: -4440416911761556116
+    second: GachaTop_11
+  - first:
+      213: 1619797149756565175
+    second: GachaTop_12
+  - first:
+      213: -194892439022202907
+    second: GachaTop_13
+  - first:
+      213: 749026456221025576
+    second: GachaTop_14
+  - first:
+      213: -712141456510082789
+    second: GachaTop_15
+  - first:
+      213: -3733554054243726378
+    second: GachaTop_16
+  - first:
+      213: 3782891575511603165
+    second: GachaTop_17
+  - first:
+      213: 8925040434302735778
+    second: GachaTop_18
+  - first:
+      213: -779606156820401188
+    second: GachaTop_19
+  - first:
+      213: 463037101341707339
+    second: GachaTop_20
+  - first:
+      213: 2486188326689760894
+    second: GachaTop_21
+  - first:
+      213: 361743974241746805
+    second: GachaTop_22
+  - first:
+      213: -167569940177688190
+    second: GachaTop_23
+  - first:
+      213: 5585234650658081195
+    second: GachaTop_24
+  - first:
+      213: 2433561446130309048
+    second: GachaTop_25
+  - first:
+      213: -4369850952174257502
+    second: GachaTop_26
+  - first:
+      213: 2916478541996426293
+    second: GachaTop_27
+  - first:
+      213: 841196445034534272
+    second: GachaTop_28
+  - first:
+      213: -5309107628405914698
+    second: GachaTop_29
+  - first:
+      213: 8325942722239938136
+    second: GachaTop_30
+  - first:
+      213: -8428383563905238956
+    second: GachaTop_31
+  - first:
+      213: -1876217802417211563
+    second: GachaTop_32
+  - first:
+      213: 85433788097162206
+    second: GachaTop_33
+  - first:
+      213: -5995188809373274513
+    second: GachaTop_34
+  - first:
+      213: -6990846974605959963
+    second: GachaTop_35
+  - first:
+      213: -7938383209082998471
+    second: GachaTop_36
+  - first:
+      213: -1285275811921838021
+    second: GachaTop_37
+  - first:
+      213: -9062210157380963040
+    second: GachaTop_38
+  - first:
+      213: -8460609446473759308
+    second: GachaTop_39
+  - first:
+      213: -1666046093278568162
+    second: GachaTop_40
+  - first:
+      213: -1088518176191502892
+    second: GachaTop_41
+  - first:
+      213: -1522844640445202319
+    second: GachaTop_42
+  - first:
+      213: 4967799660271246979
+    second: GachaTop_43
+  - first:
+      213: -5982433569869201128
+    second: GachaTop_44
+  - first:
+      213: 5377933882279237966
+    second: GachaTop_45
+  - first:
+      213: -1264765678186310969
+    second: GachaTop_46
+  - first:
+      213: 2839970501778615007
+    second: GachaTop_47
+  - first:
+      213: -7153386559244057444
+    second: GachaTop_48
+  - first:
+      213: -592792762173253920
+    second: GachaTop_49
+  - first:
+      213: -4674881343854162991
+    second: GachaTop_50
+  - first:
+      213: -7690915278625293313
+    second: GachaTop_51
+  - first:
+      213: -2280866956267607784
+    second: GachaTop_52
+  - first:
+      213: 2912491146248773908
+    second: GachaTop_53
+  - first:
+      213: 8546828516856934745
+    second: GachaTop_54
+  - first:
+      213: 9048495443111604410
+    second: GachaTop_55
+  - first:
+      213: 1119104737393841816
+    second: GachaTop_56
+  - first:
+      213: 628820238111202053
+    second: GachaTop_57
+  - first:
+      213: -6291373396270459681
+    second: GachaTop_58
+  - first:
+      213: 3744180744009643095
+    second: GachaTop_59
+  - first:
+      213: -952206835832472214
+    second: GachaTop_60
+  - first:
+      213: 2762333932391117973
+    second: GachaTop_61
+  - first:
+      213: 2750768814590855655
+    second: GachaTop_62
+  - first:
+      213: 1732296419207657553
+    second: GachaTop_63
+  - first:
+      213: -6191624622899626567
+    second: GachaTop_64
+  - first:
+      213: 3223221248544479287
+    second: GachaTop_65
+  - first:
+      213: -1815616984026912818
+    second: GachaTop_66
+  - first:
+      213: -672917028756015986
+    second: GachaTop_67
+  - first:
+      213: 2739441087714108067
+    second: GachaTop_68
+  - first:
+      213: -8945991382915902528
+    second: GachaTop_69
+  - first:
+      213: -3700367336132289040
+    second: GachaTop_70
+  - first:
+      213: 8294831828826921879
+    second: GachaTop_71
+  - first:
+      213: 6332762409840429824
+    second: GachaTop_72
+  - first:
+      213: -4095665232195973210
+    second: GachaTop_73
+  - first:
+      213: -8859709462380018933
+    second: GachaTop_74
+  - first:
+      213: 4303784760990977604
+    second: GachaTop_75
+  - first:
+      213: 6635426521127197573
+    second: GachaTop_76
+  - first:
+      213: -3188234098941752090
+    second: GachaTop_77
+  - first:
+      213: -2340289579610441180
+    second: GachaTop_78
+  - first:
+      213: -3720737662051377050
+    second: GachaTop_79
+  - first:
+      213: 5814107679445249486
+    second: GachaTop_80
+  - first:
+      213: -1033845846555671963
+    second: GachaTop_81
+  - first:
+      213: 7399762656135995246
+    second: GachaTop_82
+  - first:
+      213: -1749644819723740810
+    second: GachaTop_83
+  - first:
+      213: 678506283417193097
+    second: GachaTop_84
+  - first:
+      213: 3654320155680331131
+    second: GachaTop_85
+  - first:
+      213: -5106997060850973818
+    second: GachaTop_86
+  - first:
+      213: 5745614060953197711
+    second: GachaTop_87
+  - first:
+      213: 1130638139165076583
+    second: GachaTop_88
+  - first:
+      213: -5748620136023753052
+    second: GachaTop_89
+  - first:
+      213: 6601329262502458730
+    second: GachaTop_90
+  - first:
+      213: 5442007168646222807
+    second: GachaTop_91
+  - first:
+      213: -2064935518832615183
+    second: GachaTop_92
+  - first:
+      213: 2041670528643650247
+    second: GachaTop_93
+  - first:
+      213: 5420840783208182704
+    second: GachaTop_94
+  - first:
+      213: 9140964552745763301
+    second: GachaTop_95
+  - first:
+      213: 4333600645077541193
+    second: GachaTop_96
+  - first:
+      213: -4349122149071643123
+    second: GachaTop_97
+  - first:
+      213: 5395233086353685079
+    second: GachaTop_98
+  - first:
+      213: -4773468004837188799
+    second: GachaTop_99
+  - first:
+      213: -5264243565637253267
+    second: GachaTop_100
+  - first:
+      213: 9375086379864019
+    second: GachaTop_101
+  - first:
+      213: 503752908077930798
+    second: GachaTop_102
+  - first:
+      213: -5792413173484865284
+    second: GachaTop_103
+  - first:
+      213: -6018266732308140792
+    second: GachaTop_104
+  - first:
+      213: -4267543180846483022
+    second: GachaTop_105
+  - first:
+      213: -8714801783096998114
+    second: GachaTop_106
+  - first:
+      213: -5295804115142856113
+    second: GachaTop_107
+  - first:
+      213: 7305577116432503428
+    second: GachaTop_108
+  - first:
+      213: -5759844728323449557
+    second: GachaTop_109
+  - first:
+      213: -3133823837692959799
+    second: GachaTop_110
+  - first:
+      213: -8117355445198467316
+    second: GachaTop_111
+  - first:
+      213: 8601011468547266681
+    second: GachaTop_112
+  - first:
+      213: -6607699413543598478
+    second: GachaTop_113
+  - first:
+      213: -5818263603684576074
+    second: GachaTop_114
+  - first:
+      213: 2373517756315089221
+    second: GachaTop_115
+  - first:
+      213: 7994087200893167519
+    second: GachaTop_116
+  - first:
+      213: -4542243863652877192
+    second: GachaTop_117
+  - first:
+      213: 1501110830220582689
+    second: GachaTop_118
+  - first:
+      213: -3402790974184468170
+    second: GachaTop_119
+  - first:
+      213: -4038198979399994846
+    second: GachaTop_120
+  - first:
+      213: -2497887877626114897
+    second: GachaTop_121
+  - first:
+      213: 723709048422059571
+    second: GachaTop_122
+  - first:
+      213: 7126843473470633503
+    second: GachaTop_123
+  - first:
+      213: 8515412729853180991
+    second: GachaTop_124
+  - first:
+      213: 7762127205875207008
+    second: GachaTop_125
+  - first:
+      213: 6642467337104850929
+    second: GachaTop_126
+  - first:
+      213: -8676522246948615624
+    second: GachaTop_127
+  - first:
+      213: -9006919187776764494
+    second: GachaTop_128
+  - first:
+      213: 2917509175093094685
+    second: GachaTop_129
+  - first:
+      213: 1677787985868321819
+    second: GachaTop_130
+  - first:
+      213: 170951911339589843
+    second: GachaTop_131
+  - first:
+      213: 2269713727523284570
+    second: GachaTop_132
+  - first:
+      213: 5478980092036285396
+    second: GachaTop_133
+  - first:
+      213: 8725284318077580948
+    second: GachaTop_134
+  - first:
+      213: -5492078384816529971
+    second: GachaTop_135
+  - first:
+      213: -5882995836793462114
+    second: GachaTop_136
+  - first:
+      213: -2230479063459923252
+    second: GachaTop_137
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GachaTop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 136
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19fbba1bb485b40800000000000000
+      internalID: 5429172577257886155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 579
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e96060e42bf3260800000000000000
+      internalID: 7079573187427999277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 696
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae919d5c17a1b02d0800000000000000
+      internalID: -3311524025047901718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 696
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73348bca0b39fd0b0800000000000000
+      internalID: -5701676216206474441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 697
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740e342b7bf82d4a0800000000000000
+      internalID: -6570030887247552441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 697
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84c40a39311361b0800000000000000
+      internalID: -5664664968817752948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 678
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e06f9161341040800000000000000
+      internalID: 4617369813317116938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 640
+        width: 167
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d66aed0ca602150800000000000000
+      internalID: 5845789692928617832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 680
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c541c9f2cbe44460800000000000000
+      internalID: 7225158924855494082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_9
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 680
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177524abce7801d0800000000000000
+      internalID: -3384315706871548136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_10
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 679
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229276f87ff860640800000000000000
+      internalID: 5045878725940816162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 679
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db0d758587062c0800000000000000
+      internalID: -4440416911761556116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 666
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62e67fcecaa7610800000000000000
+      internalID: 1619797149756565175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 657
+        width: 138
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0caafb5a9b4df0800000000000000
+      internalID: -194892439022202907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 588
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258c6ae793156a00800000000000000
+      internalID: 749026456221025576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_15
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 588
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1123ee4e17fd16f0800000000000000
+      internalID: -712141456510082789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_16
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 588
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db451f6e50cf2cc0800000000000000
+      internalID: -3733554054243726378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_17
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 649
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7df2668d78f7430800000000000000
+      internalID: 3782891575511603165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 579
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5dc94fcfc1cdb70800000000000000
+      internalID: 8925040434302735778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 579
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33306b4584e25f0800000000000000
+      internalID: -779606156820401188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 492
+        width: 139
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8c475ac90d6600800000000000000
+      internalID: 463037101341707339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 618
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76e0195c17b08220800000000000000
+      internalID: 2486188326689760894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_22
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 591
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f315c5a3c250500800000000000000
+      internalID: 361743974241746805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_23
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 606
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289eca8f60cacadf0800000000000000
+      internalID: -167569940177688190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_24
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 570
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba98daba25db28d40800000000000000
+      internalID: 5585234650658081195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_25
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 606
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7deafdd3fb5c120800000000000000
+      internalID: 2433561446130309048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_26
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 606
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa304226bb2b53c0800000000000000
+      internalID: -4369850952174257502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_27
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 620
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340fb228c9697820800000000000000
+      internalID: 2916478541996426293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_28
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 431
+        width: 125
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085da9cb5b78cab00800000000000000
+      internalID: 841196445034534272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 547
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38c86adb24256b0800000000000000
+      internalID: -5309107628405914698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 432
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3c5b0bc0bb8370800000000000000
+      internalID: 8325942722239938136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 432
+        width: 83
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ffaaddcd580b80800000000000000
+      internalID: -8428383563905238956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_32
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 510
+        width: 208
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55778ad69d556f5e0800000000000000
+      internalID: -1876217802417211563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 513
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbe85fd3958f2100800000000000000
+      internalID: 85433788097162206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 490
+        width: 187
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea8efaa8fcccca0800000000000000
+      internalID: -5995188809373274513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_35
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 570
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5f7737b58bfe90800000000000000
+      internalID: -6990846974605959963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_36
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 567
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931beabd78235d190800000000000000
+      internalID: -7938383209082998471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_37
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 569
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b304fff6578c92ee0800000000000000
+      internalID: -1285275811921838021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_38
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 566
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025fe5120ef8c3280800000000000000
+      internalID: -9062210157380963040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_39
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 564
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b50e9fd880e59a80800000000000000
+      internalID: -8460609446473759308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_40
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 535
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1124beb7e301e8e0800000000000000
+      internalID: -1666046093278568162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_41
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 535
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5ac886c7ec4e0f0800000000000000
+      internalID: -1088518176191502892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_42
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 495
+        width: 102
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170082e2ed4cddae0800000000000000
+      internalID: -1522844640445202319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_43
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 550
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e16c1787b21f440800000000000000
+      internalID: 4967799660271246979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_44
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 438
+        width: 85
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811039f4d502afca0800000000000000
+      internalID: -5982433569869201128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 541
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e499ac65f5242aa40800000000000000
+      internalID: 5377933882279237966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_46
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 527
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c259931156a27ee0800000000000000
+      internalID: -1264765678186310969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 537
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2a13ef1a996720800000000000000
+      internalID: 2839970501778615007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 543
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94443b13d01abc90800000000000000
+      internalID: -7153386559244057444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_49
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 489
+        width: 208
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e69d31af1af5c7f0800000000000000
+      internalID: -592792762173253920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_50
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 542
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbc874bf2c7f1fb0800000000000000
+      internalID: -4674881343854162991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_51
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 530
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb3ae36d41644590800000000000000
+      internalID: -7690915278625293313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 525
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8192ebb769bb850e0800000000000000
+      internalID: -2280866956267607784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_53
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 282
+        width: 291
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e0a7344f3b6820800000000000000
+      internalID: 2912491146248773908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_54
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 492
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951bf67c04f6c9670800000000000000
+      internalID: 8546828516856934745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_55
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 426
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0786e1aa6b29d70800000000000000
+      internalID: 9048495443111604410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_56
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 342
+        width: 95
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89611d254dbd78f00800000000000000
+      internalID: 1119104737393841816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_57
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 435
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd138cca40ab800800000000000000
+      internalID: 628820238111202053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_58
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 342
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4d4fdaa3d80b8a0800000000000000
+      internalID: -6291373396270459681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_59
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 342
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7547d859c8006f330800000000000000
+      internalID: 3744180744009643095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_60
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 414
+        width: 392
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6db1858de419c2f0800000000000000
+      internalID: -952206835832472214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_61
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 413
+        width: 148
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5943e277318c55620800000000000000
+      internalID: 2762333932391117973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_62
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 452
+        width: 183
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e909e4a9a1bc2620800000000000000
+      internalID: 2750768814590855655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_63
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 453
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bd884a6a5a0810800000000000000
+      internalID: 1732296419207657553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 342
+        width: 208
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd7189c53ee21aa0800000000000000
+      internalID: -6191624622899626567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 366
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7381cffe5ae2bbc20800000000000000
+      internalID: 3223221248544479287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_66
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 340
+        width: 164
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7e8eaf8f1adc6e0800000000000000
+      internalID: -1815616984026912818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_67
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 346
+        width: 180
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84bfa1178159a6f0800000000000000
+      internalID: -672917028756015986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_68
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 326
+        width: 260
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a22f44b723740620800000000000000
+      internalID: 2739441087714108067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_69
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 403
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c397913c3479d380800000000000000
+      internalID: -8945991382915902528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_70
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 409
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd506f5387a5acc0800000000000000
+      internalID: -3700367336132289040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_71
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 294
+        width: 92
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b15d4b9992d1370800000000000000
+      internalID: 8294831828826921879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b4c7dfbdd72e750800000000000000
+      internalID: 6332762409840429824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_73
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 375
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8a0ccb264927c0800000000000000
+      internalID: -4095665232195973210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_74
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 330
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b030ca94f2dfb0580800000000000000
+      internalID: -8859709462380018933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_75
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 389
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4b9c007d1abb30800000000000000
+      internalID: 4303784760990977604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_76
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 313
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b1ef4d345c51c50800000000000000
+      internalID: 6635426521127197573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_77
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 342
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0acf9afd11c3d0800000000000000
+      internalID: -3188234098941752090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_78
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 330
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a75c7d60f958fd0800000000000000
+      internalID: -2340289579610441180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a2074fc84d5cc0800000000000000
+      internalID: -3720737662051377050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 320
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd6437412cdfa050800000000000000
+      internalID: 5814107679445249486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_81
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 260
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562498b1eaa07a1f0800000000000000
+      internalID: -1033845846555671963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 260
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fdf2d1eec31b660800000000000000
+      internalID: 7399762656135995246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_83
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 258
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67993457e4308b7e0800000000000000
+      internalID: -1749644819723740810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 261
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ac3f0bed98a6900800000000000000
+      internalID: 678506283417193097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_85
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 297
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7550e6f1d0c6b230800000000000000
+      internalID: 3654320155680331131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 317
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683830f2b3d4029b0800000000000000
+      internalID: -5106997060850973818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_87
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 308
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cda9ffb858cbf40800000000000000
+      internalID: 5745614060953197711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_88
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 264
+        width: 129
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c617ea565d0bf00800000000000000
+      internalID: 1130638139165076583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_89
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 268
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae75ab917cc830b0800000000000000
+      internalID: -5748620136023753052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_90
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 267
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b9d82df1ac9b50800000000000000
+      internalID: 6601329262502458730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_91
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 267
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d39948dfa4e58b40800000000000000
+      internalID: 5442007168646222807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_92
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 268
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f025eb0610e753e0800000000000000
+      internalID: -2064935518832615183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_93
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 308
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c250305788755c10800000000000000
+      internalID: 2041670528643650247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_94
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 210
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f213b8f1ba3b40800000000000000
+      internalID: 5420840783208182704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_95
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 233
+        width: 202
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e149de64da3bde70800000000000000
+      internalID: 9140964552745763301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_96
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 282
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941204883da042c30800000000000000
+      internalID: 4333600645077541193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_97
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 123
+        width: 165
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e1dc3b270d4a3c0800000000000000
+      internalID: -4349122149071643123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_98
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 294
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abb8828e7bfda40800000000000000
+      internalID: 5395233086353685079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_99
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 293
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9cf8f32c31cdb0800000000000000
+      internalID: -4773468004837188799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_100
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 294
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674e034e56a1f6b0800000000000000
+      internalID: -5264243565637253267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 277
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df0965679e412000800000000000000
+      internalID: 9375086379864019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_102
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 280
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291e84d990bdf600800000000000000
+      internalID: 503752908077930798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_103
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 284
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8342288e63d9fa0800000000000000
+      internalID: -5792413173484865284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_104
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 234
+        width: 523
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de8390b42da7ca0800000000000000
+      internalID: -6018266732308140792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_105
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b931026614a6c4c0800000000000000
+      internalID: -4267543180846483022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_106
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 235
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17009683fdce0780800000000000000
+      internalID: -8714801783096998114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_107
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 122
+        width: 152
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42bbd437368186b0800000000000000
+      internalID: -5295804115142856113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_108
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 248
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829e284eaf926560800000000000000
+      internalID: 7305577116432503428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_109
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 288
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ddfde8cbbe010b0800000000000000
+      internalID: -5759844728323449557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_110
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 248
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3e8a5c2db6284d0800000000000000
+      internalID: -3133823837692959799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fcc5dea3c595f80800000000000000
+      internalID: -8117355445198467316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_112
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 228
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97812db4c5eec5770800000000000000
+      internalID: 8601011468547266681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_113
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 259
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764d29746cbc44a0800000000000000
+      internalID: -6607699413543598478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 906
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4fbc43410614fa0800000000000000
+      internalID: -5818263603684576074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_115
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 212
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5493e3de2dd60f020800000000000000
+      internalID: 2373517756315089221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_116
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 215
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97ebb864f3b0fe60800000000000000
+      internalID: 7994087200893167519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_117
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 156
+        width: 191
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb5c79545b6f0c0800000000000000
+      internalID: -4542243863652877192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_118
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 159
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f1acbc85405d410800000000000000
+      internalID: 1501110830220582689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_119
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 211
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63154d243abd6c0d0800000000000000
+      internalID: -3402790974184468170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_120
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 190
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b48c6c6f65f7c0800000000000000
+      internalID: -4038198979399994846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_121
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 131
+        width: 247
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac475da538b55dd0800000000000000
+      internalID: -2497887877626114897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_122
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 215
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eceef8b812b0a00800000000000000
+      internalID: 723709048422059571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_123
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 186
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1637062162a7e260800000000000000
+      internalID: 7126843473470633503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_124
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 175
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cfcbed2c2dc2670800000000000000
+      internalID: 8515412729853180991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_125
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 123
+        width: 148
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4697719d98bb60800000000000000
+      internalID: 7762127205875207008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_126
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 186
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff44c89d8ce2c50800000000000000
+      internalID: 6642467337104850929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_127
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 179
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a8ad09cfcc69780800000000000000
+      internalID: -8676522246948615624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_128
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 120
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58aeb28bef00380800000000000000
+      internalID: -9006919187776764494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_129
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 167
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ed5a13231d7820800000000000000
+      internalID: 2917509175093094685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_130
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 121
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14791aa843b84710800000000000000
+      internalID: 1677787985868321819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_131
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 7
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0021d8bd75f5200800000000000000
+      internalID: 170951911339589843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_132
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 468
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566ad61c94af7f10800000000000000
+      internalID: 2269713727523284570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_133
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 0
+        width: 343
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d382456d5f390c40800000000000000
+      internalID: 5478980092036285396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_134
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 183
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fc47dbdf661970800000000000000
+      internalID: 8725284318077580948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_135
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 31
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd86aaec738c3b0800000000000000
+      internalID: -5492078384816529971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_136
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e2d4b4766b5ea0800000000000000
+      internalID: -5882995836793462114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GachaTop_137
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 726
+        width: 515
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca768ffb1fbb01e0800000000000000
+      internalID: -2230479063459923252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

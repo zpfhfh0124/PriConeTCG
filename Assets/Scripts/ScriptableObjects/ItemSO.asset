@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a747ecc6da6217149a9d5e6ef37e0de5, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uCEAC\uB8E8"
+    ap: 3
+    hp: 4
+    sprite: {fileID: 6175998812641253752, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
+    prevalence: 10
+  - name: "\uCF67\uCF54\uB85C"
+    ap: 2
+    hp: 6
+    sprite: {fileID: 5709116705529279094, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
+    prevalence: 10
+  - name: "\uD398\uCF54\uB9B0\uB290"
+    ap: 3
+    hp: 7
+    sprite: {fileID: 745922120615762190, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
+    prevalence: 10
+  - name: "\uB9AC\uB178"
+    ap: 7
+    hp: 5
+    sprite: {fileID: 5972061413570493332, guid: 624607a50c6f855448a9b827a952fbfa, type: 3}
+    prevalence: 9
+  - name: "\uC544\uC720\uBBF8"
+    ap: 5
+    hp: 4
+    sprite: {fileID: -8638830649796656823, guid: 624607a50c6f855448a9b827a952fbfa, type: 3}
+    prevalence: 11
+  - name: "\uD788\uC694\uB9AC"
+    ap: 5
+    hp: 6
+    sprite: {fileID: 5797368280744460681, guid: 624607a50c6f855448a9b827a952fbfa, type: 3}
+    prevalence: 12
+  - name: "\uC2DC\uC988\uB8E8"
+    ap: 10
+    hp: 7
+    sprite: {fileID: -869430914882559283, guid: b66eac4af3163b644b6ce4d832a085a0, type: 3}
+    prevalence: 8
+  - name: "\uC2A4\uC988\uB098"
+    ap: 4
+    hp: 3
+    sprite: {fileID: -4733933753849222114, guid: b3f1dd523eed24d4d847bcbfa753c644, type: 3}
+    prevalence: 12
+  - name: "\uB9B0"
+    ap: 5
+    hp: 5
+    sprite: {fileID: -2750465937103979292, guid: 54c37b3f216e7c84eb6f97902b363f41, type: 3}
+    prevalence: 8
+  - name: "\uB9AC\uB9C8"
+    ap: 6
+    hp: 10
+    sprite: {fileID: -2133151183352643245, guid: 54c37b3f216e7c84eb6f97902b363f41, type: 3}
+    prevalence: 10
