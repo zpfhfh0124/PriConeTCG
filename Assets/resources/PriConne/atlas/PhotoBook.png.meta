@@ -162,7 +162,7 @@ TextureImporter:
       213: -7406177778818676271
     second: PhotoBook_52
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -183,6 +183,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -221,6 +222,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -260,6 +262,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1396,6 +1410,60 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PhotoBook_0: 566515825935189076
+      PhotoBook_1: -7700028133969300048
+      PhotoBook_10: 1684805825420366182
+      PhotoBook_11: -3374352199486441274
+      PhotoBook_12: 783884488819219252
+      PhotoBook_13: -2376823561007930136
+      PhotoBook_14: 5508920950515647279
+      PhotoBook_15: -6456538216692468964
+      PhotoBook_16: -6056440274238270624
+      PhotoBook_17: 5864485076480148648
+      PhotoBook_18: 3075876633298788865
+      PhotoBook_19: -1390031558280647249
+      PhotoBook_2: 2917899719918831270
+      PhotoBook_20: 7577712285177996604
+      PhotoBook_21: 1194456905535655504
+      PhotoBook_22: 4490010538356898567
+      PhotoBook_23: 1544437826991964392
+      PhotoBook_24: 5216030200942018890
+      PhotoBook_25: 1809263780757204655
+      PhotoBook_26: -1055602004136294715
+      PhotoBook_27: -2540624731576950920
+      PhotoBook_28: 8691658017373849734
+      PhotoBook_29: -1850712710033276015
+      PhotoBook_3: 6742117213177538325
+      PhotoBook_30: -7452907863757275403
+      PhotoBook_31: 4498182661409352333
+      PhotoBook_32: -1639845078735020273
+      PhotoBook_33: -498968607224337120
+      PhotoBook_34: 8718014574607297154
+      PhotoBook_35: 4817149882590149060
+      PhotoBook_36: 9009464107411778398
+      PhotoBook_37: 835189051199388232
+      PhotoBook_38: -8209013591216633396
+      PhotoBook_39: -7025397747239698229
+      PhotoBook_4: -1701541980534248152
+      PhotoBook_40: 4693548370772627346
+      PhotoBook_41: -6632318698077801024
+      PhotoBook_42: -7347416414547267372
+      PhotoBook_43: -6723968003391889675
+      PhotoBook_44: -8116355076772297725
+      PhotoBook_45: -270784555946739873
+      PhotoBook_46: 4115758179241209712
+      PhotoBook_47: 361213419921724768
+      PhotoBook_48: -3781716644315858899
+      PhotoBook_49: 1549886940973467352
+      PhotoBook_5: -3039008527640610432
+      PhotoBook_50: 2108148066507339410
+      PhotoBook_51: -3289579316619137991
+      PhotoBook_52: -7406177778818676271
+      PhotoBook_6: 7502893382738085347
+      PhotoBook_7: 7788763780714721827
+      PhotoBook_8: 1235937544955115121
+      PhotoBook_9: -3720080789066704753
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

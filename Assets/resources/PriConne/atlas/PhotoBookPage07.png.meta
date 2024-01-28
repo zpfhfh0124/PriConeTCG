@@ -48,7 +48,7 @@ TextureImporter:
       213: 6587480580211410373
     second: PhotoBookPage07_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -69,6 +69,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,6 +108,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -146,6 +148,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -484,6 +498,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PhotoBookPage07_0: -6031244616209574544
+      PhotoBookPage07_1: 5367512702473899587
+      PhotoBookPage07_10: -7047236469123421271
+      PhotoBookPage07_11: 6362942863772761847
+      PhotoBookPage07_12: 4105301605170620605
+      PhotoBookPage07_13: 9199933231393287680
+      PhotoBookPage07_14: 6587480580211410373
+      PhotoBookPage07_2: 7652855870906174975
+      PhotoBookPage07_3: 8742283067714513817
+      PhotoBookPage07_4: -7943524489755989639
+      PhotoBookPage07_5: -6512427979099360275
+      PhotoBookPage07_6: 5421030447719469624
+      PhotoBookPage07_7: 7075929350306618328
+      PhotoBookPage07_8: -8698209065017370544
+      PhotoBookPage07_9: 5242793893806583695
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

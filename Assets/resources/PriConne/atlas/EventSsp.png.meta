@@ -477,7 +477,7 @@ TextureImporter:
       213: 6803528660604983049
     second: EventSsp_157
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -498,6 +498,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -536,6 +537,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -575,6 +577,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3916,6 +3930,165 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      EventSsp_0: -4122876619264976462
+      EventSsp_1: -865046515094842824
+      EventSsp_10: 5778168411431402796
+      EventSsp_100: -1206303242758855746
+      EventSsp_101: -1376380951252056854
+      EventSsp_102: -8628772315903367084
+      EventSsp_103: -7158430087828469697
+      EventSsp_104: 6528336020716177226
+      EventSsp_105: 6141796689810419855
+      EventSsp_106: 8963176102878613058
+      EventSsp_107: -1192880594960765987
+      EventSsp_108: -741924465097597601
+      EventSsp_109: -2767866655900517390
+      EventSsp_11: 2635030678549071264
+      EventSsp_110: -5647426229803429986
+      EventSsp_111: 533353618079761641
+      EventSsp_112: 8297493193742117613
+      EventSsp_113: -7791682473250000078
+      EventSsp_114: -7606390109141830233
+      EventSsp_115: 7506801967411789901
+      EventSsp_116: -3451138482029694466
+      EventSsp_117: 9043429890305631173
+      EventSsp_118: -5423591863459157736
+      EventSsp_119: -8750310996792969404
+      EventSsp_12: 5393317880505994045
+      EventSsp_120: 8694411691197029840
+      EventSsp_121: -5260748834019729863
+      EventSsp_122: 1522771843468855392
+      EventSsp_123: -4944022696697006384
+      EventSsp_124: -6264665075901427297
+      EventSsp_125: -5115332023264535884
+      EventSsp_126: -4961251595337656908
+      EventSsp_127: -9132513152093176367
+      EventSsp_128: -519514527831842122
+      EventSsp_129: 1255803601836437702
+      EventSsp_13: 6998455494500952949
+      EventSsp_130: 1765516172464096475
+      EventSsp_131: -8141231457536516156
+      EventSsp_132: -2235348505175959844
+      EventSsp_133: -4661011430512453221
+      EventSsp_134: -8763629172326843046
+      EventSsp_135: 6612843322363950826
+      EventSsp_136: -5569049437076869771
+      EventSsp_137: 2162940902738027788
+      EventSsp_138: 2905206481790066208
+      EventSsp_139: 4974220808918079929
+      EventSsp_14: -5663064936177228840
+      EventSsp_140: -6052013471168742647
+      EventSsp_141: 9066801984366595056
+      EventSsp_142: 7336880075953797298
+      EventSsp_143: -5262617542218435468
+      EventSsp_144: 3851932826869194663
+      EventSsp_145: 8082386936344470306
+      EventSsp_146: 1229545975446466816
+      EventSsp_147: 7042105713561898706
+      EventSsp_148: -276139792888877723
+      EventSsp_149: -5040017229401798554
+      EventSsp_15: -356563946228888695
+      EventSsp_150: -6456317342564626308
+      EventSsp_151: -3558653278352690246
+      EventSsp_152: -19541120124887600
+      EventSsp_153: 536291199874693853
+      EventSsp_154: 8607923430816178949
+      EventSsp_155: -5487650361451262259
+      EventSsp_156: -821194212247969098
+      EventSsp_157: 6803528660604983049
+      EventSsp_16: 5469555164615077328
+      EventSsp_17: -4901705050847377660
+      EventSsp_18: -271767264636955083
+      EventSsp_19: -8034899324617352085
+      EventSsp_2: -1504504991150620477
+      EventSsp_20: 1469672216913700512
+      EventSsp_21: 951053791690051339
+      EventSsp_22: -1756525805275239882
+      EventSsp_23: 3087146392999389761
+      EventSsp_24: -2514110711250090683
+      EventSsp_25: -6756411337328148366
+      EventSsp_26: -6601087640083224495
+      EventSsp_27: 5567726286530807132
+      EventSsp_28: 7533017145507453747
+      EventSsp_29: -4873832356856078805
+      EventSsp_3: -6404498089791386014
+      EventSsp_30: -7443387193342056853
+      EventSsp_31: 5695360271695340611
+      EventSsp_32: 236885527515234802
+      EventSsp_33: -8025010531011057359
+      EventSsp_34: -3441276705059992435
+      EventSsp_35: 6889600087594143482
+      EventSsp_36: -9040127021819309294
+      EventSsp_37: -2899363451216366998
+      EventSsp_38: 1261163491765340070
+      EventSsp_39: -2651132644194176732
+      EventSsp_4: 8013970653734583387
+      EventSsp_40: -5234251475182522891
+      EventSsp_41: 5826442780925143572
+      EventSsp_42: -2793700281390383386
+      EventSsp_43: 8216172651033337441
+      EventSsp_44: -159706879667481695
+      EventSsp_45: 6371052382178407304
+      EventSsp_46: -4756853771118060846
+      EventSsp_47: 257857230469317122
+      EventSsp_48: -6434742140808938154
+      EventSsp_49: 7281798922055212693
+      EventSsp_5: -5193615172681098955
+      EventSsp_50: 4388793534619320652
+      EventSsp_51: -8957093387682292883
+      EventSsp_52: -6046319853367201866
+      EventSsp_53: -1032507187204260605
+      EventSsp_54: 3581262568223710314
+      EventSsp_55: -3379763642428623360
+      EventSsp_56: -7568512929348775605
+      EventSsp_57: 7861509183622787062
+      EventSsp_58: -5458717375779274643
+      EventSsp_59: -5851797194552527475
+      EventSsp_6: 2546535620312922109
+      EventSsp_60: 197164212555018429
+      EventSsp_61: -2774348061803466694
+      EventSsp_62: -7343673138611264511
+      EventSsp_63: -8914733130727986838
+      EventSsp_64: 1738141449573169597
+      EventSsp_65: 5765041238279557677
+      EventSsp_66: -8870065781432838449
+      EventSsp_67: 6461637138075124641
+      EventSsp_68: 1015510917569101016
+      EventSsp_69: 7019833824687245767
+      EventSsp_7: -5723742255389009936
+      EventSsp_70: -4570341911125794375
+      EventSsp_71: 5830036561238396318
+      EventSsp_72: 2950054920571678624
+      EventSsp_73: -4241730726116073509
+      EventSsp_74: 7272941298757880985
+      EventSsp_75: -5375277366325347504
+      EventSsp_76: 5524819312792019484
+      EventSsp_77: 7979253229820194769
+      EventSsp_78: -2269059549237466602
+      EventSsp_79: 1301911506405570294
+      EventSsp_8: 7856452822391640557
+      EventSsp_80: -979662503530209391
+      EventSsp_81: -6262300410144427783
+      EventSsp_82: 2649841443984141764
+      EventSsp_83: 2151287928029348289
+      EventSsp_84: 3831661201522616696
+      EventSsp_85: -4901100396791995591
+      EventSsp_86: 8890725011671113311
+      EventSsp_87: 4445959279537407637
+      EventSsp_88: -4075825014674650226
+      EventSsp_89: 7597875530385750565
+      EventSsp_9: 5716262908997025912
+      EventSsp_90: 681146647616288988
+      EventSsp_91: -6830359756586585342
+      EventSsp_92: 32314504175763898
+      EventSsp_93: -5799178970917840995
+      EventSsp_94: 5487111590969953499
+      EventSsp_95: -114203221812445299
+      EventSsp_96: 944805312711438248
+      EventSsp_97: 3396392374602352843
+      EventSsp_98: -2562563749372133611
+      EventSsp_99: -650662948594606510
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

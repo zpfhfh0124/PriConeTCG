@@ -279,7 +279,7 @@ TextureImporter:
       213: -856782278179510774
     second: EkidenCommon_91
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -300,6 +300,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -338,6 +339,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -377,6 +379,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2332,6 +2346,99 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      EkidenCommon_0: -3494642594817634500
+      EkidenCommon_1: 3079151287841481364
+      EkidenCommon_10: -2229477080146637623
+      EkidenCommon_11: 6677169594978834928
+      EkidenCommon_12: -1821897424318818399
+      EkidenCommon_13: -2623384423561264084
+      EkidenCommon_14: -315271589185080062
+      EkidenCommon_15: 8819018426684432544
+      EkidenCommon_16: 4784680458780063843
+      EkidenCommon_17: -1493206250972670132
+      EkidenCommon_18: 9033097423820953609
+      EkidenCommon_19: -8410477418543555119
+      EkidenCommon_2: -6794407709593768188
+      EkidenCommon_20: -6100145545455282945
+      EkidenCommon_21: -3759638378073442077
+      EkidenCommon_22: 2166678259543659719
+      EkidenCommon_23: -1591448226276982734
+      EkidenCommon_24: -7336783345238188785
+      EkidenCommon_25: -1478198446840808505
+      EkidenCommon_26: -6225258391153511380
+      EkidenCommon_27: -7604076576494158903
+      EkidenCommon_28: 578989723047028131
+      EkidenCommon_29: -2086316495438796142
+      EkidenCommon_3: 1566073115878371307
+      EkidenCommon_30: -6103650019107374815
+      EkidenCommon_31: 8471790855131271953
+      EkidenCommon_32: 4375698685484397162
+      EkidenCommon_33: -4033773547812406913
+      EkidenCommon_34: 865738172486590727
+      EkidenCommon_35: 7541780351726945774
+      EkidenCommon_36: 1209993662517800106
+      EkidenCommon_37: -718427180798623032
+      EkidenCommon_38: -3727353678470839817
+      EkidenCommon_39: 5193407158290503885
+      EkidenCommon_4: -1487478878206863023
+      EkidenCommon_40: -9078775925903849902
+      EkidenCommon_41: 2568761562692273202
+      EkidenCommon_42: -5440201045615326980
+      EkidenCommon_43: 4167480981712339780
+      EkidenCommon_44: 710203906803758980
+      EkidenCommon_45: 6405937196179085214
+      EkidenCommon_46: -6011253545778838075
+      EkidenCommon_47: 3472791423177093737
+      EkidenCommon_48: 6514819603673881122
+      EkidenCommon_49: 3124909383059741106
+      EkidenCommon_5: -8148503960900616725
+      EkidenCommon_50: 6342346723214518354
+      EkidenCommon_51: -5821896811642733182
+      EkidenCommon_52: -4940646733148657137
+      EkidenCommon_53: 657834795491541715
+      EkidenCommon_54: 4345004285381053761
+      EkidenCommon_55: -6858200750830848704
+      EkidenCommon_56: -968331839854485134
+      EkidenCommon_57: 3364945394897875789
+      EkidenCommon_58: 6006977451582889667
+      EkidenCommon_59: 2964200209284014690
+      EkidenCommon_6: -2671205861681536666
+      EkidenCommon_60: 4667771490318862457
+      EkidenCommon_61: 6165730734101093542
+      EkidenCommon_62: -7763476126159033036
+      EkidenCommon_63: -4014613048027097012
+      EkidenCommon_64: -419283144798890410
+      EkidenCommon_65: 9101737568129207959
+      EkidenCommon_66: -1354869743808168807
+      EkidenCommon_67: 790742524031442353
+      EkidenCommon_68: -3973728835869868283
+      EkidenCommon_69: -4370341603852727066
+      EkidenCommon_7: -4761203693858441301
+      EkidenCommon_70: 4289640213106866430
+      EkidenCommon_71: 871641019436195954
+      EkidenCommon_72: 2666251740844937742
+      EkidenCommon_73: -7638487376945622711
+      EkidenCommon_74: 11179773724616350
+      EkidenCommon_75: 3979993304269767521
+      EkidenCommon_76: -3082455400761281226
+      EkidenCommon_77: -7787775645548949164
+      EkidenCommon_78: 5669982732308153597
+      EkidenCommon_79: 653636452966729816
+      EkidenCommon_8: 2432554503897418663
+      EkidenCommon_80: -3569074664782465425
+      EkidenCommon_81: 4795172733094921170
+      EkidenCommon_82: -264485441253965615
+      EkidenCommon_83: 5123307461977366602
+      EkidenCommon_84: -6301233113642662235
+      EkidenCommon_85: -4475054393921883717
+      EkidenCommon_86: -6948233225253805985
+      EkidenCommon_87: -2628375206211075201
+      EkidenCommon_88: 3318403238553552507
+      EkidenCommon_89: 1766405098239040497
+      EkidenCommon_9: -2394347341444119620
+      EkidenCommon_90: -8336969587609862083
+      EkidenCommon_91: -856782278179510774
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

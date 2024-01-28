@@ -69,7 +69,7 @@ TextureImporter:
       213: -1219527296861747804
     second: PhotoBookPage04_21
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -128,6 +129,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -167,6 +169,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -652,6 +666,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      PhotoBookPage04_0: 8333025236562071902
+      PhotoBookPage04_1: 8718923767566620666
+      PhotoBookPage04_10: 2246442141124245131
+      PhotoBookPage04_11: -3289996220291621861
+      PhotoBookPage04_12: 3052377515164243252
+      PhotoBookPage04_13: 8445181227011471450
+      PhotoBookPage04_14: -3455260173094632420
+      PhotoBookPage04_15: -1264139919069577875
+      PhotoBookPage04_16: -2133151183352643245
+      PhotoBookPage04_17: 8483903954747780803
+      PhotoBookPage04_18: -2750465937103979292
+      PhotoBookPage04_19: -2451158854266327459
+      PhotoBookPage04_2: 8054832870977009713
+      PhotoBookPage04_20: -7525536328216679086
+      PhotoBookPage04_21: -1219527296861747804
+      PhotoBookPage04_3: 5163667707746357123
+      PhotoBookPage04_4: 8658416067036009105
+      PhotoBookPage04_5: 177428810506970192
+      PhotoBookPage04_6: 475872847635623867
+      PhotoBookPage04_7: 1764239297052415886
+      PhotoBookPage04_8: -7223962760514864377
+      PhotoBookPage04_9: 1204939092057942662
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

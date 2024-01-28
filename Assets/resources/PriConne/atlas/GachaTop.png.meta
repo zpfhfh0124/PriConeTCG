@@ -417,7 +417,7 @@ TextureImporter:
       213: -2230479063459923252
     second: GachaTop_137
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -438,6 +438,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -476,6 +477,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -515,6 +517,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3436,6 +3450,145 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GachaTop_0: 5429172577257886155
+      GachaTop_1: 7079573187427999277
+      GachaTop_10: 5045878725940816162
+      GachaTop_100: -5264243565637253267
+      GachaTop_101: 9375086379864019
+      GachaTop_102: 503752908077930798
+      GachaTop_103: -5792413173484865284
+      GachaTop_104: -6018266732308140792
+      GachaTop_105: -4267543180846483022
+      GachaTop_106: -8714801783096998114
+      GachaTop_107: -5295804115142856113
+      GachaTop_108: 7305577116432503428
+      GachaTop_109: -5759844728323449557
+      GachaTop_11: -4440416911761556116
+      GachaTop_110: -3133823837692959799
+      GachaTop_111: -8117355445198467316
+      GachaTop_112: 8601011468547266681
+      GachaTop_113: -6607699413543598478
+      GachaTop_114: -5818263603684576074
+      GachaTop_115: 2373517756315089221
+      GachaTop_116: 7994087200893167519
+      GachaTop_117: -4542243863652877192
+      GachaTop_118: 1501110830220582689
+      GachaTop_119: -3402790974184468170
+      GachaTop_12: 1619797149756565175
+      GachaTop_120: -4038198979399994846
+      GachaTop_121: -2497887877626114897
+      GachaTop_122: 723709048422059571
+      GachaTop_123: 7126843473470633503
+      GachaTop_124: 8515412729853180991
+      GachaTop_125: 7762127205875207008
+      GachaTop_126: 6642467337104850929
+      GachaTop_127: -8676522246948615624
+      GachaTop_128: -9006919187776764494
+      GachaTop_129: 2917509175093094685
+      GachaTop_13: -194892439022202907
+      GachaTop_130: 1677787985868321819
+      GachaTop_131: 170951911339589843
+      GachaTop_132: 2269713727523284570
+      GachaTop_133: 5478980092036285396
+      GachaTop_134: 8725284318077580948
+      GachaTop_135: -5492078384816529971
+      GachaTop_136: -5882995836793462114
+      GachaTop_137: -2230479063459923252
+      GachaTop_14: 749026456221025576
+      GachaTop_15: -712141456510082789
+      GachaTop_16: -3733554054243726378
+      GachaTop_17: 3782891575511603165
+      GachaTop_18: 8925040434302735778
+      GachaTop_19: -779606156820401188
+      GachaTop_2: -3311524025047901718
+      GachaTop_20: 463037101341707339
+      GachaTop_21: 2486188326689760894
+      GachaTop_22: 361743974241746805
+      GachaTop_23: -167569940177688190
+      GachaTop_24: 5585234650658081195
+      GachaTop_25: 2433561446130309048
+      GachaTop_26: -4369850952174257502
+      GachaTop_27: 2916478541996426293
+      GachaTop_28: 841196445034534272
+      GachaTop_29: -5309107628405914698
+      GachaTop_3: -5701676216206474441
+      GachaTop_30: 8325942722239938136
+      GachaTop_31: -8428383563905238956
+      GachaTop_32: -1876217802417211563
+      GachaTop_33: 85433788097162206
+      GachaTop_34: -5995188809373274513
+      GachaTop_35: -6990846974605959963
+      GachaTop_36: -7938383209082998471
+      GachaTop_37: -1285275811921838021
+      GachaTop_38: -9062210157380963040
+      GachaTop_39: -8460609446473759308
+      GachaTop_4: -6570030887247552441
+      GachaTop_40: -1666046093278568162
+      GachaTop_41: -1088518176191502892
+      GachaTop_42: -1522844640445202319
+      GachaTop_43: 4967799660271246979
+      GachaTop_44: -5982433569869201128
+      GachaTop_45: 5377933882279237966
+      GachaTop_46: -1264765678186310969
+      GachaTop_47: 2839970501778615007
+      GachaTop_48: -7153386559244057444
+      GachaTop_49: -592792762173253920
+      GachaTop_5: -5664664968817752948
+      GachaTop_50: -4674881343854162991
+      GachaTop_51: -7690915278625293313
+      GachaTop_52: -2280866956267607784
+      GachaTop_53: 2912491146248773908
+      GachaTop_54: 8546828516856934745
+      GachaTop_55: 9048495443111604410
+      GachaTop_56: 1119104737393841816
+      GachaTop_57: 628820238111202053
+      GachaTop_58: -6291373396270459681
+      GachaTop_59: 3744180744009643095
+      GachaTop_6: 4617369813317116938
+      GachaTop_60: -952206835832472214
+      GachaTop_61: 2762333932391117973
+      GachaTop_62: 2750768814590855655
+      GachaTop_63: 1732296419207657553
+      GachaTop_64: -6191624622899626567
+      GachaTop_65: 3223221248544479287
+      GachaTop_66: -1815616984026912818
+      GachaTop_67: -672917028756015986
+      GachaTop_68: 2739441087714108067
+      GachaTop_69: -8945991382915902528
+      GachaTop_7: 5845789692928617832
+      GachaTop_70: -3700367336132289040
+      GachaTop_71: 8294831828826921879
+      GachaTop_72: 6332762409840429824
+      GachaTop_73: -4095665232195973210
+      GachaTop_74: -8859709462380018933
+      GachaTop_75: 4303784760990977604
+      GachaTop_76: 6635426521127197573
+      GachaTop_77: -3188234098941752090
+      GachaTop_78: -2340289579610441180
+      GachaTop_79: -3720737662051377050
+      GachaTop_8: 7225158924855494082
+      GachaTop_80: 5814107679445249486
+      GachaTop_81: -1033845846555671963
+      GachaTop_82: 7399762656135995246
+      GachaTop_83: -1749644819723740810
+      GachaTop_84: 678506283417193097
+      GachaTop_85: 3654320155680331131
+      GachaTop_86: -5106997060850973818
+      GachaTop_87: 5745614060953197711
+      GachaTop_88: 1130638139165076583
+      GachaTop_89: -5748620136023753052
+      GachaTop_9: -3384315706871548136
+      GachaTop_90: 6601329262502458730
+      GachaTop_91: 5442007168646222807
+      GachaTop_92: -2064935518832615183
+      GachaTop_93: 2041670528643650247
+      GachaTop_94: 5420840783208182704
+      GachaTop_95: 9140964552745763301
+      GachaTop_96: 4333600645077541193
+      GachaTop_97: -4349122149071643123
+      GachaTop_98: 5395233086353685079
+      GachaTop_99: -4773468004837188799
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

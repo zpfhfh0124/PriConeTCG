@@ -219,7 +219,7 @@ TextureImporter:
       213: -7230272284257611579
     second: DiaryDay14_72
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -240,6 +240,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -278,6 +279,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -317,6 +319,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1852,6 +1866,79 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      DiaryDay14_0: -6345334287350521526
+      DiaryDay14_1: -5308310223197491572
+      DiaryDay14_10: 4247178684641763554
+      DiaryDay14_11: 555339641144341123
+      DiaryDay14_12: 8958732026062523664
+      DiaryDay14_13: 8977095905017371252
+      DiaryDay14_14: -3190954775517492301
+      DiaryDay14_15: -6467902031847873198
+      DiaryDay14_16: -1684212229012465655
+      DiaryDay14_17: 7926520849306462216
+      DiaryDay14_18: -5459187993362710060
+      DiaryDay14_2: 1266319330785727793
+      DiaryDay14_20: -4081266793703993707
+      DiaryDay14_21: -8106365332722059204
+      DiaryDay14_22: 8072726491036726401
+      DiaryDay14_23: -5709112760152077772
+      DiaryDay14_24: -8506218454438074292
+      DiaryDay14_25: 6429792200212840307
+      DiaryDay14_26: -554365094406099184
+      DiaryDay14_27: -987410350205258230
+      DiaryDay14_28: -4042187492141140210
+      DiaryDay14_29: 8346654227264518002
+      DiaryDay14_3: 1005238740607430391
+      DiaryDay14_30: -765259355509906846
+      DiaryDay14_31: -2598157230910156280
+      DiaryDay14_32: -7718378209285190917
+      DiaryDay14_33: 2452481699009163602
+      DiaryDay14_34: -7479756395169286971
+      DiaryDay14_35: -2529150758237260662
+      DiaryDay14_36: -3333332545242731446
+      DiaryDay14_37: 7925638814493520685
+      DiaryDay14_38: 6875612888860431036
+      DiaryDay14_39: 350122118055221080
+      DiaryDay14_4: 7456812517576318055
+      DiaryDay14_40: -7196871626410150272
+      DiaryDay14_41: 7737570382817061015
+      DiaryDay14_42: 764341027411643771
+      DiaryDay14_43: -8262693417337150817
+      DiaryDay14_44: 3315909159751557021
+      DiaryDay14_45: 9074663428519481118
+      DiaryDay14_46: -4815741119141505286
+      DiaryDay14_47: -5163201223135984669
+      DiaryDay14_48: 4021023596814905068
+      DiaryDay14_49: 5944227944503895400
+      DiaryDay14_5: 3219519889501222295
+      DiaryDay14_50: -2869414731184752747
+      DiaryDay14_51: -2831760566881817588
+      DiaryDay14_52: 2192987399130072187
+      DiaryDay14_53: -966449345629019940
+      DiaryDay14_54: 7410052579375202926
+      DiaryDay14_55: -5655609924422068391
+      DiaryDay14_56: -6423001270749269308
+      DiaryDay14_57: -526686964885973757
+      DiaryDay14_58: 2188940858998409970
+      DiaryDay14_59: -5707554035522297539
+      DiaryDay14_6: -1705029215161794376
+      DiaryDay14_60: 4961097902404434821
+      DiaryDay14_61: 1892015281400945195
+      DiaryDay14_62: -6694211033574152753
+      DiaryDay14_63: 403075711691821093
+      DiaryDay14_64: -6958707001359942172
+      DiaryDay14_65: -8219950819215100028
+      DiaryDay14_66: -8285902754694056479
+      DiaryDay14_67: -7925738879028636343
+      DiaryDay14_68: -3276109596043015426
+      DiaryDay14_69: -2310311346744282994
+      DiaryDay14_7: 6486314407562896156
+      DiaryDay14_70: -4314069135642520017
+      DiaryDay14_71: -7073442996638489176
+      DiaryDay14_72: -7230272284257611579
+      DiaryDay14_8: 3136259739120680709
+      DiaryDay14_9: -6971175625475478194
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
