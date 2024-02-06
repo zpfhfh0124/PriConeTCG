@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class CardManager : MonoBehaviour
 {
-    public static CardManager Inst { get; private set; }
-    private void Awake() => Inst = this;
+    public static CardManager Instance { get; private set; }
+    private void Awake() => Instance = this;
 
+    // 아이템 스크립터블 오브젝트 (카드 객체)
     [SerializeField] ItemSO itemSO;
 
     List<Item> itemBuffer;
