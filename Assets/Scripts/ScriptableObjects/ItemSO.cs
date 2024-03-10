@@ -5,11 +5,12 @@ using UnityEngine;
 [System.Serializable]
 public class Item
 {
-    public string name;     // À¯´Ö¸í
-    public int ap;          // °ø°İ·Â
-    public int hp;          // Ã¼·Â
-    public Sprite sprite;   // ÀÌ¹ÌÁö ½ºÇÁ¶óÀÌÆ®
-    public float prevalence;// ÃâÇö·ü
+    public string name;     // ìœ ë‹›ëª…
+    public int ap;          // ê³µê²©ë ¥
+    public int hp;          // ì²´ë ¥
+    public Sprite sprite;   // ì´ë¯¸ì§€ ìŠ¤í”„ë¼ì´íŠ¸
+    public float prevalence;// ì¶œí˜„ë¥  ìƒíƒœì¹˜
+    public float pvl_percentage; // ë± ì…‹íŒ…ì‹œ ê°€ì¤‘ì¹˜ í™•ë¥ ë¡œ ê³„ì‚°ëœ í¼ì„¼í…Œì§€ ì €ì¥ìš©
 }
 
 [CreateAssetMenu(fileName = "ItemSO", menuName = "ScriptableObject/ItemSO")]

@@ -17,17 +17,17 @@ MonoBehaviour:
     ap: 3
     hp: 4
     sprite: {fileID: 6175998812641253752, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
-    prevalence: 10
+    prevalence: 10.5
   - name: "\uCF67\uCF54\uB85C"
     ap: 2
     hp: 6
     sprite: {fileID: 5709116705529279094, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
-    prevalence: 10
+    prevalence: 10.3
   - name: "\uD398\uCF54\uB9B0\uB290"
     ap: 3
     hp: 7
     sprite: {fileID: 745922120615762190, guid: 9610259b6dddd9942962e0650ad80c25, type: 3}
-    prevalence: 10
+    prevalence: 10.1
   - name: "\uB9AC\uB178"
     ap: 7
     hp: 5

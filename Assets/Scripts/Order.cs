@@ -19,8 +19,8 @@ public class Order : MonoBehaviour
     [SerializeField] Renderer backRenderer;
     [SerializeField] Renderer characterRenderer;
     [SerializeField] Renderer nameRenderer;
-    [SerializeField] Renderer defRenderer;
     [SerializeField] Renderer atkRenderer;
+    [SerializeField] Renderer hpRenderer;
 
     public void SetOriginOrder(int originOrder)
     {

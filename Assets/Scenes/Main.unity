@@ -504,11 +504,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!23 &852373812 stripped
-MeshRenderer:
-  m_CorrespondingSourceObject: {fileID: 4100591437606629276, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-  m_PrefabInstance: {fileID: 4100591438373527208}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &889027306
 GameObject:
   m_ObjectHideFlags: 0
@@ -1183,11 +1178,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!212 &2126226270 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 4100591436607045110, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-  m_PrefabInstance: {fileID: 4100591438373527208}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4100591438373527208
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1243,21 +1233,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4100591436657607529, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-      propertyPath: layerType
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4100591436657607529, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-      propertyPath: atkRenderer
-      value: 
-      objectReference: {fileID: 852373812}
-    - target: {fileID: 4100591436657607529, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-      propertyPath: defRenderer
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 4100591436657607529, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
-      propertyPath: _characterRenderer
-      value: 
-      objectReference: {fileID: 2126226270}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}

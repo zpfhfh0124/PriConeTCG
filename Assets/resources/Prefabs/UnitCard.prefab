@@ -185,8 +185,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1049c647baaadbd4eb1fe0eb41a55b95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  layerName: Card
+  layerType: 0
   originOrder: 0
+  backRenderer: {fileID: 0}
+  characterRenderer: {fileID: 0}
+  nameRenderer: {fileID: 0}
+  atkRenderer: {fileID: 0}
+  hpRenderer: {fileID: 0}
 --- !u!1 &4100591436607045108
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,8 +377,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1049c647baaadbd4eb1fe0eb41a55b95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  layerName: 
+  layerType: 1
   originOrder: 0
+  backRenderer: {fileID: 4100591436657607447}
+  characterRenderer: {fileID: 4100591436607045110}
+  nameRenderer: {fileID: 4100591436567156466}
+  atkRenderer: {fileID: 4100591437606629276}
+  hpRenderer: {fileID: 4100591438331386414}
 --- !u!1 &4100591437606629272
 GameObject:
   m_ObjectHideFlags: 0
@@ -559,8 +569,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1049c647baaadbd4eb1fe0eb41a55b95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  layerName: Card
+  layerType: 0
   originOrder: 0
+  backRenderer: {fileID: 0}
+  characterRenderer: {fileID: 0}
+  nameRenderer: {fileID: 0}
+  atkRenderer: {fileID: 0}
+  hpRenderer: {fileID: 0}
 --- !u!1 &4100591438331386410
 GameObject:
   m_ObjectHideFlags: 0
@@ -746,5 +761,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1049c647baaadbd4eb1fe0eb41a55b95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  layerName: Card
+  layerType: 0
   originOrder: 0
+  backRenderer: {fileID: 0}
+  characterRenderer: {fileID: 0}
+  nameRenderer: {fileID: 0}
+  atkRenderer: {fileID: 0}
+  hpRenderer: {fileID: 0}
