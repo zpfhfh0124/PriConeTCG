@@ -32,7 +32,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4100591436657607528}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -216,13 +215,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4100591436607045108}
+  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0.111, z: 0}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4100591436657607528}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4100591436607045110
 SpriteRenderer:
@@ -286,6 +285,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4100591436657607528}
   - component: {fileID: 4100591436657607447}
+  - component: {fileID: 8094440076474427568}
   - component: {fileID: 4100591436657607529}
   m_Layer: 0
   m_Name: UnitCard
@@ -301,6 +301,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4100591436657607446}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 15, y: 15, z: 15}
@@ -311,7 +312,6 @@ Transform:
   - {fileID: 4100591437606629273}
   - {fileID: 4100591438331386411}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4100591436657607447
 SpriteRenderer:
@@ -365,6 +365,31 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &8094440076474427568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4100591436657607446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9eaba0a04fec5942945a70d4f0aeff0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _card_background: {fileID: 4100591436657607447}
+  _character: {fileID: 4100591436607045110}
+  _text_name: {fileID: 4100591436567156465}
+  _text_atk: {fileID: 4100591437606629275}
+  _text_hp: {fileID: 4100591438331386413}
+  _card_front: {fileID: -1150797853226429853, guid: 96044fb6b0216ef4b8d5a159c1596057, type: 3}
+  _card_back: {fileID: 5189691121816951081, guid: 96044fb6b0216ef4b8d5a159c1596057, type: 3}
+  _item:
+    name: 
+    ap: 0
+    hp: 0
+    sprite: {fileID: 0}
+    prevalence: 0
 --- !u!114 &4100591436657607529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -416,7 +441,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4100591436657607528}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -608,7 +632,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4100591436657607528}
-  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
