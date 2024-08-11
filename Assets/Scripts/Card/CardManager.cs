@@ -9,27 +9,34 @@ public class CardManager : MonoBehaviour
     private void Awake() => Instance = this;
 
     // 아이템 스크립터블 오브젝트 (카드 객체)
-    [SerializeField] ItemSO itemSO;
+    [SerializeField] ItemSO _itemSO;
+    // 카드 프리팹
+    [SerializeField] GameObject _cardPrefab;
 
-    List<Item> itemBuffer;
+    // 카드 리스트
+    [SerializeField] List<Card> _myCardList;
+    [SerializeField] List<Card> _enemyCardList;
+
+    List<Item> _itemBuffer;
 
     void Start()
     {
-        SetupItemBuffer();
-        PopRandomItem();
+        
     }
 
     private void Update()
     {
+#if UNITY_EDITOR || UNITY_STANDALONE
         if (Input.GetKeyDown(KeyCode.Keypad1))
         {
             PopRandomItem();
         }
+#endif
     }
 
     public Item PopRandomItem() // 드로우
     {
-        if (itemBuffer == null || itemBuffer.Count == 0) SetupItemBuffer();
+        if (_itemBuffer == null || _itemBuffer.Count == 0) SetupItemBuffer();
 
         // 뽑은 카드 저장용 
         Item draw_item = new Item();
@@ -37,12 +44,12 @@ public class CardManager : MonoBehaviour
         // 확률 뽑기 
         // 각 itemSO의 출현률을 나타내는 Prevalence 값은 출현 상대치로 지정했음
         // 가중치 랜덤 뽑기 이용 -> 해당 확률을 가진 item이 복수인 경우 그 중에서 랜덤으로 나오게...
-        int sum_prev = SumPrevalenceItems(itemBuffer);
+        int sum_prev = SumPrevalenceItems(_itemBuffer);
         int cur_prev = 0;
         float pop = Random.Range(0, sum_prev);
         Debug.Log($"뽑아낸 값 : {pop}");
 
-        foreach (var item in itemBuffer)
+        foreach (var item in _itemBuffer)
         {
             if (pop >= cur_prev && pop < cur_prev + item.prevalence)
             {
@@ -62,16 +69,16 @@ public class CardManager : MonoBehaviour
     void SetupItemBuffer() 
     {
         // 더 간단한 세팅법
-        itemBuffer = itemSO.items.ToList();
+        _itemBuffer = _itemSO.items.ToList();
         
         // 덱 확률 정렬 후 역순 정렬 -> 내림차순 정렬 (확률 高 -> 低) -> Sort함수는 기본적으로 오름차순
         // 확률이 높은 것 부터 iterating 해서 시간 소요를 조금이라도 줄이고자 하기 위해서...
-        itemBuffer.Sort((p1, p2) => p1.prevalence.CompareTo(p2.prevalence));
-        itemBuffer.Reverse();
+        _itemBuffer.Sort((p1, p2) => p1.prevalence.CompareTo(p2.prevalence));
+        _itemBuffer.Reverse();
         
-        for (int i = 0; i < itemBuffer.Count; i++)
+        for (int i = 0; i < _itemBuffer.Count; i++)
         {
-            Debug.Log($"정렬된 카드덱 {i+1}번째 카드 {itemBuffer[i].name}의 출현률 가중치 : {itemBuffer[i].prevalence}");
+            Debug.Log($"정렬된 카드덱 {i+1}번째 카드 {_itemBuffer[i].name}의 출현률 가중치 : {_itemBuffer[i].prevalence}");
         }
     }
 
@@ -83,5 +90,13 @@ public class CardManager : MonoBehaviour
         Debug.Log($"덱 전체 카드의 출현률 수치 합 : {sum_pvl}");
         
         return sum_pvl;
+    }
+
+    // 카드 추가
+    void AddCard(bool isMine)
+    {
+        var card_obj = Instantiate(_cardPrefab, Vector3.zero, Quaternion.identity);
+        Card card = card_obj.GetComponent<Card>();
+        card.Setup(PopRandomItem(), isMine);
     }
 }

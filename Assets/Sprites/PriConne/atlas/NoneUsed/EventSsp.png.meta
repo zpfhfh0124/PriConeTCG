@@ -1,0 +1,4097 @@
+fileFormatVersion: 2
+guid: 74f6d9245f07e1f4583012df3be29e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4122876619264976462
+    second: EventSsp_0
+  - first:
+      213: -865046515094842824
+    second: EventSsp_1
+  - first:
+      213: -1504504991150620477
+    second: EventSsp_2
+  - first:
+      213: -6404498089791386014
+    second: EventSsp_3
+  - first:
+      213: 8013970653734583387
+    second: EventSsp_4
+  - first:
+      213: -5193615172681098955
+    second: EventSsp_5
+  - first:
+      213: 2546535620312922109
+    second: EventSsp_6
+  - first:
+      213: -5723742255389009936
+    second: EventSsp_7
+  - first:
+      213: 7856452822391640557
+    second: EventSsp_8
+  - first:
+      213: 5716262908997025912
+    second: EventSsp_9
+  - first:
+      213: 5778168411431402796
+    second: EventSsp_10
+  - first:
+      213: 2635030678549071264
+    second: EventSsp_11
+  - first:
+      213: 5393317880505994045
+    second: EventSsp_12
+  - first:
+      213: 6998455494500952949
+    second: EventSsp_13
+  - first:
+      213: -5663064936177228840
+    second: EventSsp_14
+  - first:
+      213: -356563946228888695
+    second: EventSsp_15
+  - first:
+      213: 5469555164615077328
+    second: EventSsp_16
+  - first:
+      213: -4901705050847377660
+    second: EventSsp_17
+  - first:
+      213: -271767264636955083
+    second: EventSsp_18
+  - first:
+      213: -8034899324617352085
+    second: EventSsp_19
+  - first:
+      213: 1469672216913700512
+    second: EventSsp_20
+  - first:
+      213: 951053791690051339
+    second: EventSsp_21
+  - first:
+      213: -1756525805275239882
+    second: EventSsp_22
+  - first:
+      213: 3087146392999389761
+    second: EventSsp_23
+  - first:
+      213: -2514110711250090683
+    second: EventSsp_24
+  - first:
+      213: -6756411337328148366
+    second: EventSsp_25
+  - first:
+      213: -6601087640083224495
+    second: EventSsp_26
+  - first:
+      213: 5567726286530807132
+    second: EventSsp_27
+  - first:
+      213: 7533017145507453747
+    second: EventSsp_28
+  - first:
+      213: -4873832356856078805
+    second: EventSsp_29
+  - first:
+      213: -7443387193342056853
+    second: EventSsp_30
+  - first:
+      213: 5695360271695340611
+    second: EventSsp_31
+  - first:
+      213: 236885527515234802
+    second: EventSsp_32
+  - first:
+      213: -8025010531011057359
+    second: EventSsp_33
+  - first:
+      213: -3441276705059992435
+    second: EventSsp_34
+  - first:
+      213: 6889600087594143482
+    second: EventSsp_35
+  - first:
+      213: -9040127021819309294
+    second: EventSsp_36
+  - first:
+      213: -2899363451216366998
+    second: EventSsp_37
+  - first:
+      213: 1261163491765340070
+    second: EventSsp_38
+  - first:
+      213: -2651132644194176732
+    second: EventSsp_39
+  - first:
+      213: -5234251475182522891
+    second: EventSsp_40
+  - first:
+      213: 5826442780925143572
+    second: EventSsp_41
+  - first:
+      213: -2793700281390383386
+    second: EventSsp_42
+  - first:
+      213: 8216172651033337441
+    second: EventSsp_43
+  - first:
+      213: -159706879667481695
+    second: EventSsp_44
+  - first:
+      213: 6371052382178407304
+    second: EventSsp_45
+  - first:
+      213: -4756853771118060846
+    second: EventSsp_46
+  - first:
+      213: 257857230469317122
+    second: EventSsp_47
+  - first:
+      213: -6434742140808938154
+    second: EventSsp_48
+  - first:
+      213: 7281798922055212693
+    second: EventSsp_49
+  - first:
+      213: 4388793534619320652
+    second: EventSsp_50
+  - first:
+      213: -8957093387682292883
+    second: EventSsp_51
+  - first:
+      213: -6046319853367201866
+    second: EventSsp_52
+  - first:
+      213: -1032507187204260605
+    second: EventSsp_53
+  - first:
+      213: 3581262568223710314
+    second: EventSsp_54
+  - first:
+      213: -3379763642428623360
+    second: EventSsp_55
+  - first:
+      213: -7568512929348775605
+    second: EventSsp_56
+  - first:
+      213: 7861509183622787062
+    second: EventSsp_57
+  - first:
+      213: -5458717375779274643
+    second: EventSsp_58
+  - first:
+      213: -5851797194552527475
+    second: EventSsp_59
+  - first:
+      213: 197164212555018429
+    second: EventSsp_60
+  - first:
+      213: -2774348061803466694
+    second: EventSsp_61
+  - first:
+      213: -7343673138611264511
+    second: EventSsp_62
+  - first:
+      213: -8914733130727986838
+    second: EventSsp_63
+  - first:
+      213: 1738141449573169597
+    second: EventSsp_64
+  - first:
+      213: 5765041238279557677
+    second: EventSsp_65
+  - first:
+      213: -8870065781432838449
+    second: EventSsp_66
+  - first:
+      213: 6461637138075124641
+    second: EventSsp_67
+  - first:
+      213: 1015510917569101016
+    second: EventSsp_68
+  - first:
+      213: 7019833824687245767
+    second: EventSsp_69
+  - first:
+      213: -4570341911125794375
+    second: EventSsp_70
+  - first:
+      213: 5830036561238396318
+    second: EventSsp_71
+  - first:
+      213: 2950054920571678624
+    second: EventSsp_72
+  - first:
+      213: -4241730726116073509
+    second: EventSsp_73
+  - first:
+      213: 7272941298757880985
+    second: EventSsp_74
+  - first:
+      213: -5375277366325347504
+    second: EventSsp_75
+  - first:
+      213: 5524819312792019484
+    second: EventSsp_76
+  - first:
+      213: 7979253229820194769
+    second: EventSsp_77
+  - first:
+      213: -2269059549237466602
+    second: EventSsp_78
+  - first:
+      213: 1301911506405570294
+    second: EventSsp_79
+  - first:
+      213: -979662503530209391
+    second: EventSsp_80
+  - first:
+      213: -6262300410144427783
+    second: EventSsp_81
+  - first:
+      213: 2649841443984141764
+    second: EventSsp_82
+  - first:
+      213: 2151287928029348289
+    second: EventSsp_83
+  - first:
+      213: 3831661201522616696
+    second: EventSsp_84
+  - first:
+      213: -4901100396791995591
+    second: EventSsp_85
+  - first:
+      213: 8890725011671113311
+    second: EventSsp_86
+  - first:
+      213: 4445959279537407637
+    second: EventSsp_87
+  - first:
+      213: -4075825014674650226
+    second: EventSsp_88
+  - first:
+      213: 7597875530385750565
+    second: EventSsp_89
+  - first:
+      213: 681146647616288988
+    second: EventSsp_90
+  - first:
+      213: -6830359756586585342
+    second: EventSsp_91
+  - first:
+      213: 32314504175763898
+    second: EventSsp_92
+  - first:
+      213: -5799178970917840995
+    second: EventSsp_93
+  - first:
+      213: 5487111590969953499
+    second: EventSsp_94
+  - first:
+      213: -114203221812445299
+    second: EventSsp_95
+  - first:
+      213: 944805312711438248
+    second: EventSsp_96
+  - first:
+      213: 3396392374602352843
+    second: EventSsp_97
+  - first:
+      213: -2562563749372133611
+    second: EventSsp_98
+  - first:
+      213: -650662948594606510
+    second: EventSsp_99
+  - first:
+      213: -1206303242758855746
+    second: EventSsp_100
+  - first:
+      213: -1376380951252056854
+    second: EventSsp_101
+  - first:
+      213: -8628772315903367084
+    second: EventSsp_102
+  - first:
+      213: -7158430087828469697
+    second: EventSsp_103
+  - first:
+      213: 6528336020716177226
+    second: EventSsp_104
+  - first:
+      213: 6141796689810419855
+    second: EventSsp_105
+  - first:
+      213: 8963176102878613058
+    second: EventSsp_106
+  - first:
+      213: -1192880594960765987
+    second: EventSsp_107
+  - first:
+      213: -741924465097597601
+    second: EventSsp_108
+  - first:
+      213: -2767866655900517390
+    second: EventSsp_109
+  - first:
+      213: -5647426229803429986
+    second: EventSsp_110
+  - first:
+      213: 533353618079761641
+    second: EventSsp_111
+  - first:
+      213: 8297493193742117613
+    second: EventSsp_112
+  - first:
+      213: -7791682473250000078
+    second: EventSsp_113
+  - first:
+      213: -7606390109141830233
+    second: EventSsp_114
+  - first:
+      213: 7506801967411789901
+    second: EventSsp_115
+  - first:
+      213: -3451138482029694466
+    second: EventSsp_116
+  - first:
+      213: 9043429890305631173
+    second: EventSsp_117
+  - first:
+      213: -5423591863459157736
+    second: EventSsp_118
+  - first:
+      213: -8750310996792969404
+    second: EventSsp_119
+  - first:
+      213: 8694411691197029840
+    second: EventSsp_120
+  - first:
+      213: -5260748834019729863
+    second: EventSsp_121
+  - first:
+      213: 1522771843468855392
+    second: EventSsp_122
+  - first:
+      213: -4944022696697006384
+    second: EventSsp_123
+  - first:
+      213: -6264665075901427297
+    second: EventSsp_124
+  - first:
+      213: -5115332023264535884
+    second: EventSsp_125
+  - first:
+      213: -4961251595337656908
+    second: EventSsp_126
+  - first:
+      213: -9132513152093176367
+    second: EventSsp_127
+  - first:
+      213: -519514527831842122
+    second: EventSsp_128
+  - first:
+      213: 1255803601836437702
+    second: EventSsp_129
+  - first:
+      213: 1765516172464096475
+    second: EventSsp_130
+  - first:
+      213: -8141231457536516156
+    second: EventSsp_131
+  - first:
+      213: -2235348505175959844
+    second: EventSsp_132
+  - first:
+      213: -4661011430512453221
+    second: EventSsp_133
+  - first:
+      213: -8763629172326843046
+    second: EventSsp_134
+  - first:
+      213: 6612843322363950826
+    second: EventSsp_135
+  - first:
+      213: -5569049437076869771
+    second: EventSsp_136
+  - first:
+      213: 2162940902738027788
+    second: EventSsp_137
+  - first:
+      213: 2905206481790066208
+    second: EventSsp_138
+  - first:
+      213: 4974220808918079929
+    second: EventSsp_139
+  - first:
+      213: -6052013471168742647
+    second: EventSsp_140
+  - first:
+      213: 9066801984366595056
+    second: EventSsp_141
+  - first:
+      213: 7336880075953797298
+    second: EventSsp_142
+  - first:
+      213: -5262617542218435468
+    second: EventSsp_143
+  - first:
+      213: 3851932826869194663
+    second: EventSsp_144
+  - first:
+      213: 8082386936344470306
+    second: EventSsp_145
+  - first:
+      213: 1229545975446466816
+    second: EventSsp_146
+  - first:
+      213: 7042105713561898706
+    second: EventSsp_147
+  - first:
+      213: -276139792888877723
+    second: EventSsp_148
+  - first:
+      213: -5040017229401798554
+    second: EventSsp_149
+  - first:
+      213: -6456317342564626308
+    second: EventSsp_150
+  - first:
+      213: -3558653278352690246
+    second: EventSsp_151
+  - first:
+      213: -19541120124887600
+    second: EventSsp_152
+  - first:
+      213: 536291199874693853
+    second: EventSsp_153
+  - first:
+      213: 8607923430816178949
+    second: EventSsp_154
+  - first:
+      213: -5487650361451262259
+    second: EventSsp_155
+  - first:
+      213: -821194212247969098
+    second: EventSsp_156
+  - first:
+      213: 6803528660604983049
+    second: EventSsp_157
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EventSsp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b992f70f8998c6c0800000000000000
+      internalID: -4122876619264976462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 834
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832159917ccbef3f0800000000000000
+      internalID: -865046515094842824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 821
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04aa78eacee1be0800000000000000
+      internalID: -1504504991150620477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 819
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e01597be6ae17a0800000000000000
+      internalID: -6404498089791386014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c314889d7573f60800000000000000
+      internalID: 8013970653734583387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 793
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539934474829ce7b0800000000000000
+      internalID: -5193615172681098955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 820
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df771a097ac175320800000000000000
+      internalID: 2546535620312922109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 745
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f715a19ebe2190b0800000000000000
+      internalID: -5723742255389009936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 816
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1d449773ab70d60800000000000000
+      internalID: 7856452822391640557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 786
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870428564de345f40800000000000000
+      internalID: 5716262908997025912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 777
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d70cf5e8d203050800000000000000
+      internalID: 5778168411431402796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 801
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a58c2fe072819420800000000000000
+      internalID: 2635030678549071264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 785
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b825c890ae8da40800000000000000
+      internalID: 5393317880505994045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 790
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2c1e51328f1160800000000000000
+      internalID: 6998455494500952949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 753
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3af2bd170c861b0800000000000000
+      internalID: -5663064936177228840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bc055eafa3d0bf0800000000000000
+      internalID: -356563946228888695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 770
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde84a7173c7eb40800000000000000
+      internalID: 5469555164615077328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 761
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40701820a35a9fbb0800000000000000
+      internalID: -4901705050847377660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 727
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361cb9dc1d7a3cf0800000000000000
+      internalID: -271767264636955083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 742
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c182e82ad4e7090800000000000000
+      internalID: -8034899324617352085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_20
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 757
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e6693813556410800000000000000
+      internalID: 1469672216913700512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_21
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 744
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f49f77262d23d00800000000000000
+      internalID: 951053791690051339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 744
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a23c926119f97e0800000000000000
+      internalID: -1756525805275239882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 739
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a6b5cb94fb7da20800000000000000
+      internalID: 3087146392999389761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 749
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5450fe1e0a51c1dd0800000000000000
+      internalID: -2514110711250090683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 717
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270422a8fa76c32a0800000000000000
+      internalID: -6756411337328148366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 714
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1582e91f3c93464a0800000000000000
+      internalID: -6601087640083224495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 738
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55064bfe89844d40800000000000000
+      internalID: 5567726286530807132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 690
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b16e4ae27aa8860800000000000000
+      internalID: 7533017145507453747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 738
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed9ca4b4bac5cb0800000000000000
+      internalID: -4873832356856078805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 692
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66a72fc8c6c3b890800000000000000
+      internalID: -7443387193342056853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 695
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e546edfbf90f40800000000000000
+      internalID: 5695360271695340611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 717
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f10af7d126994300800000000000000
+      internalID: 236885527515234802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 704
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139215cb07f61a090800000000000000
+      internalID: -8025010531011057359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 714
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c8215c1112e30d0800000000000000
+      internalID: -3441276705059992435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 714
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8c89e6c6cc9f50800000000000000
+      internalID: 6889600087594143482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 696
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213dc0cce540b8280800000000000000
+      internalID: -9040127021819309294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 696
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a627f777d4463c7d0800000000000000
+      internalID: -2899363451216366998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 732
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74d5a838d808110800000000000000
+      internalID: 1261163491765340070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_39
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 715
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213d5a08e8453bd0800000000000000
+      internalID: -2651132644194176732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_40
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 714
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd6eacf3043c57b0800000000000000
+      internalID: -5234251475182522891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 679
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aae25e6deabd050800000000000000
+      internalID: 5826442780925143572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 644
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee31de4568ca39d0800000000000000
+      internalID: -2793700281390383386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 716
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e1f16be75b50270800000000000000
+      internalID: 8216172651033337441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_44
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 641
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3db39607b98cdf0800000000000000
+      internalID: -159706879667481695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_45
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 711
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837625e2668a6850800000000000000
+      internalID: 6371052382178407304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dad704b2b24cfdb0800000000000000
+      internalID: -4756853771118060846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 687
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202c3e0f8c7149300800000000000000
+      internalID: 257857230469317122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 678
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65db8db9d1433b6a0800000000000000
+      internalID: -6434742140808938154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_49
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 646
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5ceaf9852e0560800000000000000
+      internalID: 7281798922055212693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 654
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c410487877028ec30800000000000000
+      internalID: 4388793534619320652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 666
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5237450302b380800000000000000
+      internalID: -8957093387682292883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_52
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 670
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe7adc028271ca0800000000000000
+      internalID: -6046319853367201866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 654
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df6a60f2ccba1f0800000000000000
+      internalID: -1032507187204260605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_54
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 655
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c906ad45333b130800000000000000
+      internalID: 3581262568223710314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_55
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 624
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006f24cbfdaa811d0800000000000000
+      internalID: -3379763642428623360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 664
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411738279d37f690800000000000000
+      internalID: -7568512929348775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_57
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 646
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffae4053f0b91d60800000000000000
+      internalID: 7861509183622787062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 660
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d608c6fd77dbe34b0800000000000000
+      internalID: -5458717375779274643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 647
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b119a47d3acea0800000000000000
+      internalID: -5851797194552527475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_60
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 612
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f2c38ec77cb200800000000000000
+      internalID: 197164212555018429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 654
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3039ec03298f79d0800000000000000
+      internalID: -2774348061803466694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_62
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 523
+        width: 72
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046f7a5038061a90800000000000000
+      internalID: -7343673138611264511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_63
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 658
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a696d8b2371884480800000000000000
+      internalID: -8914733130727986838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_64
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 646
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f037707e1f1810800000000000000
+      internalID: 1738141449573169597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 636
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d229123367a810050800000000000000
+      internalID: 5765041238279557677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_66
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 580
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6195bda2237e480800000000000000
+      internalID: -8870065781432838449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 605
+        width: 75
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3807aedb85ca950800000000000000
+      internalID: 6461637138075124641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 453
+        width: 74
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcbc339cc1d71e00800000000000000
+      internalID: 1015510917569101016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_69
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 522
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c941cebba57b6160800000000000000
+      internalID: 7019833824687245767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_70
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 532
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1644d1f32e290c0800000000000000
+      internalID: -4570341911125794375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_71
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 629
+        width: 296
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d87241d5378e050800000000000000
+      internalID: 5830036561238396318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af6198f153b0f820800000000000000
+      internalID: 2950054920571678624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_73
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 568
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfddf4d0685225c0800000000000000
+      internalID: -4241730726116073509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 570
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c4bb8d39daee460800000000000000
+      internalID: 7272941298757880985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_75
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 576
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfafaf6bd2765b0800000000000000
+      internalID: -5375277366325347504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 584
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12af2ba4e91cac40800000000000000
+      internalID: 5524819312792019484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_77
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 564
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df225069800cbe60800000000000000
+      internalID: 7979253229820194769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_78
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 538
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a2e79ac5ea280e0800000000000000
+      internalID: -2269059549237466602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_79
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 570
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f63c440e91511210800000000000000
+      internalID: 1301911506405570294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_80
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 564
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fdf4db42a8762f0800000000000000
+      internalID: -979662503530209391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_81
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 574
+        width: 79
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0fe80c4f6d719a0800000000000000
+      internalID: -6262300410144427783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 574
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd68cbf0c026c420800000000000000
+      internalID: 2649841443984141764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c186c7f8f8eadd10800000000000000
+      internalID: 2151287928029348289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 507
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e660df8bcc2530800000000000000
+      internalID: 3831661201522616696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 506
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933efa0082bcbfbb0800000000000000
+      internalID: -4901100396791995591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 515
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e56540b43326b70800000000000000
+      internalID: 8890725011671113311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 550
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596cda6b86833bd30800000000000000
+      internalID: 4445959279537407637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_88
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 553
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b8aa96eb2cf67c0800000000000000
+      internalID: -4075825014674650226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_89
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 538
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a76442a83117960800000000000000
+      internalID: 7597875530385750565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_90
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 541
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8fd13644be37900800000000000000
+      internalID: 681146647616288988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_91
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 540
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203788c7dffa531a0800000000000000
+      internalID: -6830359756586585342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_92
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 546
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab14d7eceddc27000800000000000000
+      internalID: 32314504175763898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 487
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d689837d258fa0800000000000000
+      internalID: -5799178970917840995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 515
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc41b68be2262c40800000000000000
+      internalID: 5487111590969953499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_95
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 512
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff9ab56c44a6ef0800000000000000
+      internalID: -114203221812445299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_96
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 520
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af21161d6f9c1d00800000000000000
+      internalID: 944805312711438248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_97
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 540
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8c40eaed8622f20800000000000000
+      internalID: 3396392374602352843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_98
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 495
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f7164d8d1ff6cd0800000000000000
+      internalID: -2562563749372133611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 198
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9280ee7168f6f0800000000000000
+      internalID: -650662948594606510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_100
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e4fb8799524fe0800000000000000
+      internalID: -1206303242758855746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 407
+        width: 131
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c10531dc16ece0800000000000000
+      internalID: -1376380951252056854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_102
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 453
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458eadebb41704880800000000000000
+      internalID: -8628772315903367084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_103
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 414
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38048913c528ac90800000000000000
+      internalID: -7158430087828469697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_104
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 504
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47cc21b50f499a50800000000000000
+      internalID: 6528336020716177226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_105
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 388
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80f1da7c8b0c3550800000000000000
+      internalID: 6141796689810419855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_106
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 464
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e89573d29936c70800000000000000
+      internalID: 8963176102878613058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_107
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 502
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb28e54b69027fe0800000000000000
+      internalID: -1192880594960765987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_108
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 496
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9faf31a724b5f0800000000000000
+      internalID: -741924465097597601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 188
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb665f0ff8699d0800000000000000
+      internalID: -2767866655900517390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_110
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 460
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc75de3cf40a1b0800000000000000
+      internalID: -5647426229803429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_111
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 464
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e440513a4ad66700800000000000000
+      internalID: 533353618079761641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_112
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 473
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea6833091e962370800000000000000
+      internalID: 8297493193742117613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_113
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 400
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fb4b92126ed390800000000000000
+      internalID: -7791682473250000078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_114
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 400
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57e810f7ca07690800000000000000
+      internalID: -7606390109141830233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_115
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 408
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4088cadd948d2860800000000000000
+      internalID: 7506801967411789901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_116
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 406
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef170f3e5d71b10d0800000000000000
+      internalID: -3451138482029694466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 426
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c321d23297b08d70800000000000000
+      internalID: 9043429890305631173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_118
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 428
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81961d38fe78bb4b0800000000000000
+      internalID: -5423591863459157736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_119
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 302
+        width: 97
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f5f17286a09680800000000000000
+      internalID: -8750310996792969404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_120
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 417
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd5dc04e51c8a870800000000000000
+      internalID: 8694411691197029840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_121
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 384
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e14bfdec01ef6b0800000000000000
+      internalID: -5260748834019729863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_122
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 300
+        width: 83
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688de37ce8f12510800000000000000
+      internalID: 1522771843468855392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f7e94d8d436bb0800000000000000
+      internalID: -4944022696697006384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 297
+        width: 94
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91991a1e407f09a0800000000000000
+      internalID: -6264665075901427297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 333
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba132580a0b209b0800000000000000
+      internalID: -5115332023264535884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_126
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 283
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51f8ab5f7162bb0800000000000000
+      internalID: -4961251595337656908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_127
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 273
+        width: 112
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd37ee9cabc24180800000000000000
+      internalID: -9132513152093176367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_128
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 338
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ade81a405ac8f0800000000000000
+      internalID: -519514527831842122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_129
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 273
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0fd1be8b28d6110800000000000000
+      internalID: 1255803601836437702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_130
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 336
+        width: 77
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd40ee0da9f508810800000000000000
+      internalID: 1765516172464096475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_131
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 310
+        width: 145
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdc4b9f19840f80800000000000000
+      internalID: -8141231457536516156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 246
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd659cfb0627af0e0800000000000000
+      internalID: -2235348505175959844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_133
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 152
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99154e8cc2c05fb0800000000000000
+      internalID: -4661011430512453221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_134
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 152
+        width: 90
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d353013b5516680800000000000000
+      internalID: -8763629172326843046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_135
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 287
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae631d027f985cb50800000000000000
+      internalID: 6612843322363950826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_136
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 152
+        width: 279
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da1760b03c6b2b0800000000000000
+      internalID: -5569049437076869771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_137
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 267
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ecd19a4f440e10800000000000000
+      internalID: 2162940902738027788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_138
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 242
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e524a17ed515820800000000000000
+      internalID: 2905206481790066208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_139
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 252
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91bed987bf70540800000000000000
+      internalID: 4974220808918079929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_140
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 210
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbb1b10dde20ca0800000000000000
+      internalID: -6052013471168742647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_141
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 213
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4af6ed50c3dd70800000000000000
+      internalID: 9066801984366595056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_142
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 184
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8fdde7e85d1d560800000000000000
+      internalID: 7336880075953797298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_143
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 152
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b4575a3d67f6b0800000000000000
+      internalID: -5262617542218435468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_144
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af54346f70d47530800000000000000
+      internalID: 3851932826869194663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_145
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 248
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223e116a8186a2070800000000000000
+      internalID: 8082386936344470306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_146
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 246
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017f7ddc89301110800000000000000
+      internalID: 1229545975446466816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_147
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0b97f5d59ab160800000000000000
+      internalID: 7042105713561898706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_148
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 124
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d22884254fa2cf0800000000000000
+      internalID: -276139792888877723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_149
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 143
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66848a378034e0ab0800000000000000
+      internalID: -5040017229401798554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70dd3f759d8666a0800000000000000
+      internalID: -6456317342564626308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_151
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 183
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33209a2bf1d9ec0800000000000000
+      internalID: -3558653278352690246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_152
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 116
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd517c64739abff0800000000000000
+      internalID: -19541120124887600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_153
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf2b0410a417700800000000000000
+      internalID: 536291199874693853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_154
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5036f8be0cc757770800000000000000
+      internalID: 8607923430816178949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_155
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 46
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce47223213f7d3b0800000000000000
+      internalID: -5487650361451262259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26a5ff6388a94f0800000000000000
+      internalID: -821194212247969098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EventSsp_157
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079c8a254dfa6e50800000000000000
+      internalID: 6803528660604983049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9d3e055e2aa321e41a894af88714fca6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EventSsp_0: -4122876619264976462
+      EventSsp_1: -865046515094842824
+      EventSsp_10: 5778168411431402796
+      EventSsp_100: -1206303242758855746
+      EventSsp_101: -1376380951252056854
+      EventSsp_102: -8628772315903367084
+      EventSsp_103: -7158430087828469697
+      EventSsp_104: 6528336020716177226
+      EventSsp_105: 6141796689810419855
+      EventSsp_106: 8963176102878613058
+      EventSsp_107: -1192880594960765987
+      EventSsp_108: -741924465097597601
+      EventSsp_109: -2767866655900517390
+      EventSsp_11: 2635030678549071264
+      EventSsp_110: -5647426229803429986
+      EventSsp_111: 533353618079761641
+      EventSsp_112: 8297493193742117613
+      EventSsp_113: -7791682473250000078
+      EventSsp_114: -7606390109141830233
+      EventSsp_115: 7506801967411789901
+      EventSsp_116: -3451138482029694466
+      EventSsp_117: 9043429890305631173
+      EventSsp_118: -5423591863459157736
+      EventSsp_119: -8750310996792969404
+      EventSsp_12: 5393317880505994045
+      EventSsp_120: 8694411691197029840
+      EventSsp_121: -5260748834019729863
+      EventSsp_122: 1522771843468855392
+      EventSsp_123: -4944022696697006384
+      EventSsp_124: -6264665075901427297
+      EventSsp_125: -5115332023264535884
+      EventSsp_126: -4961251595337656908
+      EventSsp_127: -9132513152093176367
+      EventSsp_128: -519514527831842122
+      EventSsp_129: 1255803601836437702
+      EventSsp_13: 6998455494500952949
+      EventSsp_130: 1765516172464096475
+      EventSsp_131: -8141231457536516156
+      EventSsp_132: -2235348505175959844
+      EventSsp_133: -4661011430512453221
+      EventSsp_134: -8763629172326843046
+      EventSsp_135: 6612843322363950826
+      EventSsp_136: -5569049437076869771
+      EventSsp_137: 2162940902738027788
+      EventSsp_138: 2905206481790066208
+      EventSsp_139: 4974220808918079929
+      EventSsp_14: -5663064936177228840
+      EventSsp_140: -6052013471168742647
+      EventSsp_141: 9066801984366595056
+      EventSsp_142: 7336880075953797298
+      EventSsp_143: -5262617542218435468
+      EventSsp_144: 3851932826869194663
+      EventSsp_145: 8082386936344470306
+      EventSsp_146: 1229545975446466816
+      EventSsp_147: 7042105713561898706
+      EventSsp_148: -276139792888877723
+      EventSsp_149: -5040017229401798554
+      EventSsp_15: -356563946228888695
+      EventSsp_150: -6456317342564626308
+      EventSsp_151: -3558653278352690246
+      EventSsp_152: -19541120124887600
+      EventSsp_153: 536291199874693853
+      EventSsp_154: 8607923430816178949
+      EventSsp_155: -5487650361451262259
+      EventSsp_156: -821194212247969098
+      EventSsp_157: 6803528660604983049
+      EventSsp_16: 5469555164615077328
+      EventSsp_17: -4901705050847377660
+      EventSsp_18: -271767264636955083
+      EventSsp_19: -8034899324617352085
+      EventSsp_2: -1504504991150620477
+      EventSsp_20: 1469672216913700512
+      EventSsp_21: 951053791690051339
+      EventSsp_22: -1756525805275239882
+      EventSsp_23: 3087146392999389761
+      EventSsp_24: -2514110711250090683
+      EventSsp_25: -6756411337328148366
+      EventSsp_26: -6601087640083224495
+      EventSsp_27: 5567726286530807132
+      EventSsp_28: 7533017145507453747
+      EventSsp_29: -4873832356856078805
+      EventSsp_3: -6404498089791386014
+      EventSsp_30: -7443387193342056853
+      EventSsp_31: 5695360271695340611
+      EventSsp_32: 236885527515234802
+      EventSsp_33: -8025010531011057359
+      EventSsp_34: -3441276705059992435
+      EventSsp_35: 6889600087594143482
+      EventSsp_36: -9040127021819309294
+      EventSsp_37: -2899363451216366998
+      EventSsp_38: 1261163491765340070
+      EventSsp_39: -2651132644194176732
+      EventSsp_4: 8013970653734583387
+      EventSsp_40: -5234251475182522891
+      EventSsp_41: 5826442780925143572
+      EventSsp_42: -2793700281390383386
+      EventSsp_43: 8216172651033337441
+      EventSsp_44: -159706879667481695
+      EventSsp_45: 6371052382178407304
+      EventSsp_46: -4756853771118060846
+      EventSsp_47: 257857230469317122
+      EventSsp_48: -6434742140808938154
+      EventSsp_49: 7281798922055212693
+      EventSsp_5: -5193615172681098955
+      EventSsp_50: 4388793534619320652
+      EventSsp_51: -8957093387682292883
+      EventSsp_52: -6046319853367201866
+      EventSsp_53: -1032507187204260605
+      EventSsp_54: 3581262568223710314
+      EventSsp_55: -3379763642428623360
+      EventSsp_56: -7568512929348775605
+      EventSsp_57: 7861509183622787062
+      EventSsp_58: -5458717375779274643
+      EventSsp_59: -5851797194552527475
+      EventSsp_6: 2546535620312922109
+      EventSsp_60: 197164212555018429
+      EventSsp_61: -2774348061803466694
+      EventSsp_62: -7343673138611264511
+      EventSsp_63: -8914733130727986838
+      EventSsp_64: 1738141449573169597
+      EventSsp_65: 5765041238279557677
+      EventSsp_66: -8870065781432838449
+      EventSsp_67: 6461637138075124641
+      EventSsp_68: 1015510917569101016
+      EventSsp_69: 7019833824687245767
+      EventSsp_7: -5723742255389009936
+      EventSsp_70: -4570341911125794375
+      EventSsp_71: 5830036561238396318
+      EventSsp_72: 2950054920571678624
+      EventSsp_73: -4241730726116073509
+      EventSsp_74: 7272941298757880985
+      EventSsp_75: -5375277366325347504
+      EventSsp_76: 5524819312792019484
+      EventSsp_77: 7979253229820194769
+      EventSsp_78: -2269059549237466602
+      EventSsp_79: 1301911506405570294
+      EventSsp_8: 7856452822391640557
+      EventSsp_80: -979662503530209391
+      EventSsp_81: -6262300410144427783
+      EventSsp_82: 2649841443984141764
+      EventSsp_83: 2151287928029348289
+      EventSsp_84: 3831661201522616696
+      EventSsp_85: -4901100396791995591
+      EventSsp_86: 8890725011671113311
+      EventSsp_87: 4445959279537407637
+      EventSsp_88: -4075825014674650226
+      EventSsp_89: 7597875530385750565
+      EventSsp_9: 5716262908997025912
+      EventSsp_90: 681146647616288988
+      EventSsp_91: -6830359756586585342
+      EventSsp_92: 32314504175763898
+      EventSsp_93: -5799178970917840995
+      EventSsp_94: 5487111590969953499
+      EventSsp_95: -114203221812445299
+      EventSsp_96: 944805312711438248
+      EventSsp_97: 3396392374602352843
+      EventSsp_98: -2562563749372133611
+      EventSsp_99: -650662948594606510
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

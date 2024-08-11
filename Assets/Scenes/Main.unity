@@ -982,6 +982,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   itemSO: {fileID: 11400000, guid: cd5bf82a559df294e8312dbb38b8b30a, type: 2}
+  cardPrefab: {fileID: 4100591436657607446, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
 --- !u!1 &1385097180
 GameObject:
   m_ObjectHideFlags: 0

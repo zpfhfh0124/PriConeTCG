@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 6264985b2b71297469b31ee0c7661e71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2260275712511118629
+    second: PhotoBookPage09_0
+  - first:
+      213: 369893848001410191
+    second: PhotoBookPage09_1
+  - first:
+      213: 6032175692627278469
+    second: PhotoBookPage09_2
+  - first:
+      213: 1199020128429979423
+    second: PhotoBookPage09_3
+  - first:
+      213: 2521479162934794888
+    second: PhotoBookPage09_4
+  - first:
+      213: 9178251267149585360
+    second: PhotoBookPage09_5
+  - first:
+      213: -1028810415771689119
+    second: PhotoBookPage09_6
+  - first:
+      213: -4785637632075318577
+    second: PhotoBookPage09_7
+  - first:
+      213: -1301732170453764067
+    second: PhotoBookPage09_8
+  - first:
+      213: 484328701395393564
+    second: PhotoBookPage09_9
+  - first:
+      213: 7237093575094718603
+    second: PhotoBookPage09_10
+  - first:
+      213: -4005180453786271263
+    second: PhotoBookPage09_11
+  - first:
+      213: 4708735424856931296
+    second: PhotoBookPage09_12
+  - first:
+      213: -6093645310281646653
+    second: PhotoBookPage09_13
+  - first:
+      213: -3207251487882043083
+    second: PhotoBookPage09_14
+  - first:
+      213: 8429673859604510115
+    second: PhotoBookPage09_15
+  - first:
+      213: 892954716169801444
+    second: PhotoBookPage09_16
+  - first:
+      213: -7760183034311211776
+    second: PhotoBookPage09_17
+  - first:
+      213: 5109937899468036285
+    second: PhotoBookPage09_18
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PhotoBookPage09_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 228
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0baaf8cc1e5f10800000000000000
+      internalID: 2260275712511118629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 426
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f9b6be70222500800000000000000
+      internalID: 369893848001410191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 426
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a7bc525d796b350800000000000000
+      internalID: 6032175692627278469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 439
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17bc914476c3a010800000000000000
+      internalID: 1199020128429979423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 439
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a174770f71ef220800000000000000
+      internalID: 2521479162934794888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_5
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 420
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbdab526e2bf5f70800000000000000
+      internalID: 9178251267149585360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 360
+        width: 134
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd4b2b06ee8b1f0800000000000000
+      internalID: -1028810415771689119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcab864ddeff59db0800000000000000
+      internalID: -4785637632075318577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 366
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b763ec715fede0800000000000000
+      internalID: -1301732170453764067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_9
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 366
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cd239436ea8b600800000000000000
+      internalID: 484328701395393564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 140
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8058c543425f6460800000000000000
+      internalID: 7237093575094718603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 180
+        width: 132
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14bbef89dba68c0800000000000000
+      internalID: -4005180453786271263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 198
+        width: 130
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb35e3cbe9c85140800000000000000
+      internalID: 4708735424856931296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 198
+        width: 108
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdff6530e50f6ba0800000000000000
+      internalID: -6093645310281646653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 297
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a277b3cd8d73d0800000000000000
+      internalID: -3207251487882043083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 175
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a57f1686b73cf470800000000000000
+      internalID: 8429673859604510115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_16
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 72
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee8fc15599646c00800000000000000
+      internalID: 892954716169801444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 36
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0050edf35aa4e4490800000000000000
+      internalID: -7760183034311211776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhotoBookPage09_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8191a22752ae640800000000000000
+      internalID: 5109937899468036285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07d4a51443caccd42998443043b8ae65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PhotoBookPage09_0: 2260275712511118629
+      PhotoBookPage09_1: 369893848001410191
+      PhotoBookPage09_10: 7237093575094718603
+      PhotoBookPage09_11: -4005180453786271263
+      PhotoBookPage09_12: 4708735424856931296
+      PhotoBookPage09_13: -6093645310281646653
+      PhotoBookPage09_14: -3207251487882043083
+      PhotoBookPage09_15: 8429673859604510115
+      PhotoBookPage09_16: 892954716169801444
+      PhotoBookPage09_17: -7760183034311211776
+      PhotoBookPage09_18: 5109937899468036285
+      PhotoBookPage09_2: 6032175692627278469
+      PhotoBookPage09_3: 1199020128429979423
+      PhotoBookPage09_4: 2521479162934794888
+      PhotoBookPage09_5: 9178251267149585360
+      PhotoBookPage09_6: -1028810415771689119
+      PhotoBookPage09_7: -4785637632075318577
+      PhotoBookPage09_8: -1301732170453764067
+      PhotoBookPage09_9: 484328701395393564
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
