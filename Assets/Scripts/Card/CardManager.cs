@@ -17,6 +17,9 @@ public class CardManager : MonoBehaviour
     [SerializeField] List<Card> _myCardList;
     [SerializeField] List<Card> _enemyCardList;
 
+    // 카드 소환 위치
+    [SerializeField] Transform _cardSpawnPoint;
+
     List<Item> _itemBuffer;
 
     void Start()
@@ -95,8 +98,19 @@ public class CardManager : MonoBehaviour
     // 카드 추가
     void AddCard(bool isMine)
     {
-        var card_obj = Instantiate(_cardPrefab, Vector3.zero, Quaternion.identity);
+        var card_obj = Instantiate(_cardPrefab, _cardSpawnPoint.position, Utilities.QI);
         Card card = card_obj.GetComponent<Card>();
         card.Setup(PopRandomItem(), isMine);
+    }
+
+    // 카드 순서 정렬
+    void SetOriginOrder(bool isMine)
+    {
+        int cnt = isMine ? _myCardList.Count : _enemyCardList.Count;
+        for(int i = 0; i < cnt; i++)
+        {
+            Card card = isMine ? _myCardList[i] : _enemyCardList[i];
+            card.GetComponent<Order>().SetOriginOrder(i);
+        }
     }
 }

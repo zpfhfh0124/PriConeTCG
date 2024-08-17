@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using DG.Tweening;
 
 public class Card : MonoBehaviour
 {
@@ -15,6 +16,9 @@ public class Card : MonoBehaviour
 
     public Item _item;
     bool _isFront;
+
+    // 카드 트랜스폼 조정
+    public TransformSetter _originTr;
 
     public void Setup(Item item, bool isFront)
     {
@@ -36,5 +40,10 @@ public class Card : MonoBehaviour
             _text_atk.text = string.Empty;
             _text_hp.text = string.Empty;
         }
+    }
+
+    public void TweeningTransform(TransformSetter setTr, bool useDotween, float dotweenTime = 0)
+    {   
+
     }
 }
