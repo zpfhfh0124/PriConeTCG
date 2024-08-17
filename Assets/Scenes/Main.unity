@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 48382232}
   m_Layer: 0
-  m_Name: PlayerArea
+  m_Name: PlayerArea(Canvas)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1016,7 +1016,7 @@ MonoBehaviour:
   _cardPrefab: {fileID: 4100591436657607446, guid: 1fc5fa797e1199c4c97a58e119c7e093, type: 3}
   _myCardList: []
   _enemyCardList: []
-  _cardSpawnPoint: {fileID: 626855684}
+  _cardSpawnPoint: {fileID: 626855685}
 --- !u!1 &1385097180
 GameObject:
   m_ObjectHideFlags: 0

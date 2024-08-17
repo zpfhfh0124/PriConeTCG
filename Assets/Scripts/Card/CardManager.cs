@@ -24,17 +24,24 @@ public class CardManager : MonoBehaviour
 
     void Start()
     {
-        
+        // 테스트
+        SetupItemBuffer();
     }
 
     private void Update()
     {
-#if UNITY_EDITOR || UNITY_STANDALONE
+//#if UNITY_EDITOR || UNITY_STANDALONE
         if (Input.GetKeyDown(KeyCode.Keypad1))
         {
-            PopRandomItem();
+            AddCard(true);
         }
-#endif
+        
+        if (Input.GetKeyDown(KeyCode.Keypad2))
+        {
+            AddCard(false);
+        }
+
+//#endif
     }
 
     public Item PopRandomItem() // 드로우
@@ -101,6 +108,12 @@ public class CardManager : MonoBehaviour
         var card_obj = Instantiate(_cardPrefab, _cardSpawnPoint.position, Utilities.QI);
         Card card = card_obj.GetComponent<Card>();
         card.Setup(PopRandomItem(), isMine);
+
+        var targetCardList = isMine ? _myCardList : _enemyCardList;
+        targetCardList.Add( card );
+
+        SetOriginOrder( isMine );
+        SetCardAlignment( isMine );
     }
 
     // 카드 순서 정렬
@@ -111,6 +124,19 @@ public class CardManager : MonoBehaviour
         {
             Card card = isMine ? _myCardList[i] : _enemyCardList[i];
             card.GetComponent<Order>().SetOriginOrder(i);
+        }
+    }
+
+    // 카드 위치 조정
+    void SetCardAlignment(bool isMine)
+    {
+        var targetCardList = isMine ? _myCardList : _enemyCardList;
+        for(int i = 0; i < targetCardList.Count; i++)
+        {
+            var card = targetCardList[i];
+
+            card.originTr = new TransformSetter(Vector3.zero, Utilities.QI, _cardPrefab.transform.localScale);
+            card.SetTransform(card.originTr, true, 0.5f);
         }
     }
 }

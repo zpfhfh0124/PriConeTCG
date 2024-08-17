@@ -18,7 +18,7 @@ public class Card : MonoBehaviour
     bool _isFront;
 
     // 카드 트랜스폼 조정
-    public TransformSetter _originTr;
+    public TransformSetter originTr;
 
     public void Setup(Item item, bool isFront)
     {
@@ -42,8 +42,20 @@ public class Card : MonoBehaviour
         }
     }
 
-    public void TweeningTransform(TransformSetter setTr, bool useDotween, float dotweenTime = 0)
-    {   
-
+    // 트랜스폼 설정 (tween사용/비사용)
+    public void SetTransform(TransformSetter setTr, bool useDotween, float dotweenTime = 0)
+    {
+        if (useDotween)
+        {
+            transform.DOMove(setTr.pos, dotweenTime);
+            transform.DORotateQuaternion(setTr.rot, dotweenTime);
+            transform.DOScale(setTr.scale, dotweenTime);
+        }
+        else
+        {
+            transform.position = setTr.pos;
+            transform.rotation = setTr.rot;
+            transform.localScale = setTr.scale;
+        }
     }
 }

@@ -264,15 +264,15 @@ SpriteRenderer:
   m_SortingLayerID: -1023887305
   m_SortingLayer: 2
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1219527296861747804, guid: 54c37b3f216e7c84eb6f97902b363f41, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
-  m_DrawMode: 0
+  m_DrawMode: 1
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &4100591436657607446
@@ -390,6 +390,10 @@ MonoBehaviour:
     hp: 0
     sprite: {fileID: 0}
     prevalence: 0
+  originTr:
+    pos: {x: 0, y: 0, z: 0}
+    rot: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
 --- !u!114 &4100591436657607529
 MonoBehaviour:
   m_ObjectHideFlags: 0

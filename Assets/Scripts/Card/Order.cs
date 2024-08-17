@@ -28,7 +28,7 @@ public class Order : MonoBehaviour
         SetOrder(originOrder);
     }
 
-    // ¸Ç ¾ÕÀÇ ¿À´õ
+    // ë§¨ ì•ì˜ ì˜¤ë”
     public void SetHeadOrder(bool isHeadOrder)
     {
         SetOrder( isHeadOrder ? MAX_ORDER : originOrder);
@@ -36,6 +36,16 @@ public class Order : MonoBehaviour
 
     public void SetOrder(int order)
     {
+        int mulOrder = order * 10;
+        SetAllRendererOrders(mulOrder);
+    }
 
+    void SetAllRendererOrders(int order)
+    {
+        backRenderer.sortingOrder = order;
+        characterRenderer.sortingOrder = order + 1;
+        nameRenderer.sortingOrder = order + 1;
+        atkRenderer.sortingOrder = order + 1;
+        hpRenderer.sortingOrder = order + 1;
     }
 }

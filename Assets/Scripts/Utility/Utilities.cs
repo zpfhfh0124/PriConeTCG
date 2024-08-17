@@ -10,7 +10,7 @@ public class TransformSetter
     public Quaternion rot;
     public Vector3 scale;
 
-    TransformSetter(Vector3 pos, Quaternion rot, Vector3 scale)
+    public TransformSetter(Vector3 pos, Quaternion rot, Vector3 scale)
     {
         this.pos = pos;
         this.rot = rot;
