@@ -20,6 +20,12 @@ public class CardManager : MonoBehaviour
     // 카드 소환 위치
     [SerializeField] Transform _cardSpawnPoint;
 
+    // 카드 패 위치
+    [SerializeField] Transform _myCardLeft;
+    [SerializeField] Transform _myCardRight;
+    [SerializeField] Transform _enemyCardLeft;
+    [SerializeField] Transform _enemyCardRight;
+
     List<Item> _itemBuffer;
 
     void Start()
@@ -130,13 +136,55 @@ public class CardManager : MonoBehaviour
     // 카드 위치 조정
     void SetCardAlignment(bool isMine)
     {
+        List<TransformSetter> originCardTransforms = new List<TransformSetter>();
+        if(isMine) originCardTransforms = RoundAlignment(_myCardLeft, _myCardRight, _myCardList.Count, 0.5f, Vector3.one * 15f);
+        else originCardTransforms = RoundAlignment(_enemyCardLeft, _enemyCardRight, _enemyCardList.Count, -0.5f, Vector3.one * 15f);
+
         var targetCardList = isMine ? _myCardList : _enemyCardList;
         for(int i = 0; i < targetCardList.Count; i++)
         {
             var card = targetCardList[i];
 
-            card.originTr = new TransformSetter(Vector3.zero, Utilities.QI, _cardPrefab.transform.localScale);
+            card.originTr = originCardTransforms[i];
             card.SetTransform(card.originTr, true, 0.5f);
         }
+    }
+
+    // 카드 각도 조정
+    List<TransformSetter> RoundAlignment(Transform leftTr, Transform rightTr, int objCount, float height, Vector3 scale)
+    {
+        float[] objLerps = new float[objCount];
+        List<TransformSetter> results = new List<TransformSetter>(objCount);
+
+        switch (objCount)
+        {
+            case 1: objLerps = new float[] { 0.5f };
+                break; 
+            case 2: objLerps = new float[] { 0.27f, 0.73f };
+                break;
+            case 3: objLerps = new float[] { 0.1f, 0.5f, 0.9f };
+                break;
+            default:
+                float interval = 1f / (objCount - 1);
+                for(int i = 0; i < objCount; i++) { objLerps[i] = interval * i; }
+                break;
+        }
+
+        for(int i = 0; i < objCount; i++)
+        {
+            var targetPos = Vector3.Lerp(leftTr.position, rightTr.position, objLerps[i]);
+            var targetRot = Utilities.QI;
+            // 카드가 4장 이상일 때 회전 필요
+            if (objCount >= 4)
+            {
+                // 원의 방정식 참고
+                float curve = Mathf.Sqrt(Mathf.Pow(height, 2) - Mathf.Pow(objLerps[i] - 0.5f, 2));
+                if (height >= 0) curve *= -1; // 반지름이 음수면 아래쪽에서 회전
+                targetPos.y += curve;
+                targetRot = Quaternion.Slerp(leftTr.rotation, rightTr.rotation, objLerps[i]);
+            }
+            results.Add(new TransformSetter(targetPos, targetRot, scale));
+        }
+        return results;
     }
 }
