@@ -32,22 +32,17 @@ public class CardManager : MonoBehaviour
     {
         // 테스트
         SetupItemBuffer();
+        TurnManager.OnAddCard += AddCard;
     }
 
     private void Update()
     {
-//#if UNITY_EDITOR || UNITY_STANDALONE
-        if (Input.GetKeyDown(KeyCode.Keypad1))
-        {
-            AddCard(true);
-        }
-        
-        if (Input.GetKeyDown(KeyCode.Keypad2))
-        {
-            AddCard(false);
-        }
 
-//#endif
+    }
+
+    void OnDestroy()
+    {
+        TurnManager.OnAddCard -= AddCard;
     }
 
     public Item PopRandomItem() // 드로우

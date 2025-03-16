@@ -13,11 +13,31 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
-        
+        StartGame();
     }
 
     private void Update()
     {
+#if UNITY_EDITOR 
+        CheatInput();
+#endif
+    }
+
+    void CheatInput()
+    { 
+        if (Input.GetKeyDown(KeyCode.Keypad1))
+        {
+            TurnManager.OnAddCard?.Invoke(true);
+        }
         
+        if (Input.GetKeyDown(KeyCode.Keypad2))
+        {
+            TurnManager.OnAddCard?.Invoke(false);
+        }
+    }
+
+    public void StartGame()
+    {
+        StartCoroutine(TurnManager.Instance.StartGame());
     }
 }
