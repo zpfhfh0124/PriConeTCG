@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using DG.Tweening;
+using UnityEngine.Serialization;
 
 public class Card : MonoBehaviour
 {
@@ -14,7 +15,7 @@ public class Card : MonoBehaviour
     [SerializeField] Sprite _card_front;
     [SerializeField] Sprite _card_back;
 
-    public Item _item;
+    public Item Item;
     bool _isFront;
 
     // 카드 트랜스폼 조정
@@ -22,7 +23,7 @@ public class Card : MonoBehaviour
 
     public void Setup(Item item, bool isFront)
     {
-        _item = item;
+        Item = item;
         _isFront = isFront;
 
         // 앞면일 경우
@@ -60,12 +61,12 @@ public class Card : MonoBehaviour
     }
     
     // 카드에 마우스 포커싱
-    void _OnMouseOver()
+    void OnMouseOver()
     {
         if(_isFront) CardManager.Instance.CardMouseOver(this);
     }
 
-    void _OnMouseExit()
+    void OnMouseExit()
     {
         if(_isFront) CardManager.Instance.CardMouseExit(this);
     }

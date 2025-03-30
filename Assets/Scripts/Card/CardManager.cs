@@ -187,12 +187,12 @@ public class CardManager : MonoBehaviour
     #region MyCard
     public void CardMouseOver(Card card)
     {
-        print("CardMouseOver");
+        Debug.Log($"카드에 포커싱. {card.Item.name}");
     }
 
     public void CardMouseExit(Card card)
     {
-        print("CardMouseExit");
+        Debug.Log($"카드로부터 아웃포커싱. {card.Item.name}");
     }
     #endregion
 }
