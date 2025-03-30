@@ -882,6 +882,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b0583dbe371144045a00fc0e0e982ba6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  notiBanner: {fileID: 994229790}
 --- !u!4 &833737265
 Transform:
   m_ObjectHideFlags: 0
@@ -1156,6 +1157,7 @@ GameObject:
   - component: {fileID: 994229787}
   - component: {fileID: 994229789}
   - component: {fileID: 994229788}
+  - component: {fileID: 994229790}
   m_Layer: 5
   m_Name: NotificationBanner
   m_TagString: Untagged
@@ -1172,7 +1174,7 @@ RectTransform:
   m_GameObject: {fileID: 994229786}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 414117455}
@@ -1221,6 +1223,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 994229786}
   m_CullTransparentMesh: 1
+--- !u!114 &994229790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 994229786}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43b07a0bc15dae74d9092efacafaea4c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  notificationText: {fileID: 414117456}
 --- !u!1 &1019486544
 GameObject:
   m_ObjectHideFlags: 0
@@ -1832,10 +1847,10 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 797701954}
   - {fileID: 1353926345}
+  - {fileID: 688391963}
+  - {fileID: 833737265}
   - {fileID: 48382232}
   - {fileID: 1385097181}
   - {fileID: 626855685}
-  - {fileID: 833737265}
-  - {fileID: 688391963}
   - {fileID: 433468797}
   - {fileID: 975762049}

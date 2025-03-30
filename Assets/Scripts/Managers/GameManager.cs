@@ -6,6 +6,9 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     static public GameManager Instance { get; private set; }
+
+    [SerializeField] private NotificationBanner notiBanner = null;
+    
     private void Awake()
     {
         Instance = this;
@@ -34,10 +37,20 @@ public class GameManager : MonoBehaviour
         {
             TurnManager.OnAddCard?.Invoke(false);
         }
+
+        if (Input.GetKeyDown(KeyCode.Keypad3))
+        {
+            TurnManager.Instance.EndTurn();
+        }
     }
 
     public void StartGame()
     {
         StartCoroutine(TurnManager.Instance.StartGame());
+    }
+
+    public void Notification(string msg)
+    {
+        notiBanner?.Show(msg);
     }
 }

@@ -58,4 +58,20 @@ public class Card : MonoBehaviour
             transform.localScale = setTr.scale;
         }
     }
+    
+    // 카드에 마우스 포커싱
+    void _OnMouseOver()
+    {
+        if(_isFront) CardManager.Instance.CardMouseOver(this);
+    }
+
+    void _OnMouseExit()
+    {
+        if(_isFront) CardManager.Instance.CardMouseExit(this);
+    }
+
+    public void MoveTransform()
+    {
+        
+    }
 }

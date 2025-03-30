@@ -182,4 +182,17 @@ public class CardManager : MonoBehaviour
         }
         return results;
     }
+    
+    // 나의 카드
+    #region MyCard
+    public void CardMouseOver(Card card)
+    {
+        print("CardMouseOver");
+    }
+
+    public void CardMouseExit(Card card)
+    {
+        print("CardMouseExit");
+    }
+    #endregion
 }

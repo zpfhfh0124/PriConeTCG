@@ -38,6 +38,9 @@ public class TurnManager : MonoBehaviour
     WaitForSeconds delay2 = new WaitForSeconds(0.7f);
 
     public static Action<bool> OnAddCard;
+    
+    const string MY_TURN = "나의 턴";
+    const string ENEMY_TURN = "상대의 턴";
 
     void GameSetup()
     {
@@ -75,10 +78,20 @@ public class TurnManager : MonoBehaviour
     {
         isLoading = true;
         
+        if(myTurn) GameManager.Instance.Notification(MY_TURN);
+        else GameManager.Instance.Notification(ENEMY_TURN);
+        
+        
         yield return delay2;
         OnAddCard?.Invoke(myTurn);
         yield return delay2;
         
         isLoading = false;
+    }
+
+    public void EndTurn()
+    {
+        myTurn = !myTurn;
+        StartCoroutine(StartTurn());
     }
 }
